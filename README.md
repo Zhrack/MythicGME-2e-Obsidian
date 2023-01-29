@@ -5,7 +5,8 @@ At the moment only the Meaning Elements Tables are included, it will probably gr
 
 ## Change log
 
-v1.0: 
+### v1.0
+- Uploaded Meaning Tables.
 
 ## Setting up
 Just download this repository as a zip file and unzip it in your chosen folder.

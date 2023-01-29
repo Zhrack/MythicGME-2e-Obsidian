@@ -13,7 +13,7 @@ Just download this repository as a zip file and unzip it in your chosen folder.
 Create an Obsidian Vault from that folder and have fun!
 
 To use the automatic table roller, the plugin [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) is needed.
-Once installed and activated, just keep the the Obsidian pane in Reading mode and click on the result text to reroll.
+Once installed and activated, just keep the Obsidian pane in Reading mode and click on the result text to reroll.
 
 ## Credits
 

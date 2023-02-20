@@ -24,6 +24,7 @@
 ##### Characters Actions, Combat: `dice: [[Characters Actions, Combat#^Mythic2CharactersCombat]]` & `dice: [[Characters Actions, Combat#^Mythic2CharactersCombat]]`
 ##### Conversations: `dice: [[Characters Conversations#^Mythic2CharactersConversations]]` & `dice: [[Characters Conversations#^Mythic2CharactersConversations]]`
 ##### Animal Actions: `dice: [[Animal Actions#^Mythic2AnimalActions]]` & `dice: [[Animal Actions#^Mythic2AnimalActions]]`
+
 # Creatures
 ##### Descriptors: `dice: [[Creature Descriptors#^Mythic2CreatureDescriptors]]` & `dice: [[Creature Descriptors#^Mythic2CreatureDescriptors]]`
 ##### Abilities: `dice: [[Creature Abilities#^Mythic2CreatureAbilities]]` & `dice: [[Creature Abilities#^Mythic2CreatureAbilities]]`

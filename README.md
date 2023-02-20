@@ -5,6 +5,9 @@ At the moment only the Meaning Elements Tables are included, it will probably gr
 
 ## Change log
 
+
+### v2.0
+- Added a note hosting all rollers for ease of use.
 ### v1.0
 - Uploaded Meaning Tables.
 

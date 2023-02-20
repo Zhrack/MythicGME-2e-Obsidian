@@ -1,107 +1,104 @@
-### Dungeon Traps: `dice: [[Dungeon Traps#^Mythic2DungeonTraps]]`
-### Dungeon Traps: `dice: [[Dungeon Traps#^Mythic2DungeonTraps]]`
-
 ## Dungeon Traps
-| 1d100 | Result      |
-| ----- | ----------- |
-| 1     | Aggressive  |
-| 2     | Allies      |
-| 3     | Ambush      |
-| 4     | Animals     |
-| 5     | Animate     |
-| 6     | Antagonize  |
-| 7     | Aromatic    |
-| 8     | Art         |
-| 9     | Attach      |
-| 10    | Attention   |
-| 11    | Attract     |
-| 12    | Balance     |
-| 13    | Beautiful   |
-| 14    | Bestow      |
-| 15    | Betray      |
-| 16    | Bizarre     |
-| 17    | Blades      |
-| 18    | Break       |
-| 19    | Ceiling     |
-| 20    | Change      |
-| 21    | Choice      |
-| 22    | Climb       |
-| 23    | Cloud       |
-| 24    | Cold        |
-| 25    | Colorful    |
-| 26    | Combative   |
-| 27    | Communicate |
-| 28    | Confuse     |
-| 29    | Constrain   |
-| 30    | Control     |
-| 31    | Create      |
-| 32    | Creepy      |
-| 33    | Crush       |
-| 34    | Damaged     |
-| 35    | Danger      |
-| 36    | Dark        |
-| 37    | Deceive     |
-| 38    | Delay       |
-| 39    | Deprive     |
-| 40    | Disrupt     |
-| 41    | Divide      |
-| 42    | Door        |
-| 43    | Drop        |
-| 44    | Duplicate   |
-| 45    | Elaborate   |
-| 46    | Enemies     |
-| 47    | Energy      |
-| 48    | Fall        |
-| 49    | Fear        |
-| 50    | Fight       |
-| 51    | Fire        |
-| 52    | Floor       |
-| 53    | Frightening |
-| 54    | Harm        |
-| 55    | Heat        |
-| 56    | Heavy       |
-| 57    | Helpless    |
-| 58    | Horrible    |
-| 59    | Illusion    |
-| 60    | Imprison    |
-| 61    | Lethal      |
-| 62    | Loud        |
-| 63    | Lure        |
-| 64    | Magic       |
-| 65    | Mechanical  |
-| 66    | Mental      |
-| 67    | Messy       |
-| 68    | Monster     |
-| 69    | Natural     |
-| 70    | Object      |
-| 71    | Odd         |
-| 72    | Old         |
-| 73    | Pain        |
-| 74    | Plants      |
-| 75    | Portal      |
-| 76    | Possessions |
-| 77    | Prison      |
-| 78    | Projectile  |
-| 79    | Riddle      |
-| 80    | Scary       |
-| 81    | Simple      |
-| 82    | Sounds      |
-| 83    | Stab        |
-| 84    | Stop        |
-| 85    | Strange     |
-| 86    | Strangle    |
-| 87    | Suppress    |
-| 88    | Take        |
-| 89    | Toxin       |
-| 90    | Transform   |
-| 91    | Transport   |
-| 92    | Treasure    |
-| 93    | Trials      |
-| 94    | Trigger     |
-| 95    | Unleash     |
-| 96    | Wall        |
-| 97    | Warning     |
-| 98    | Water       |
-| 99    | Weapon      |
-| 100   | Wound       |
+| Result      |
+| ----------- |
+| Aggressive  |
+| Allies      |
+| Ambush      |
+| Animals     |
+| Animate     |
+| Antagonize  |
+| Aromatic    |
+| Art         |
+| Attach      |
+| Attention   |
+| Attract     |
+| Balance     |
+| Beautiful   |
+| Bestow      |
+| Betray      |
+| Bizarre     |
+| Blades      |
+| Break       |
+| Ceiling     |
+| Change      |
+| Choice      |
+| Climb       |
+| Cloud       |
+| Cold        |
+| Colorful    |
+| Combative   |
+| Communicate |
+| Confuse     |
+| Constrain   |
+| Control     |
+| Create      |
+| Creepy      |
+| Crush       |
+| Damaged     |
+| Danger      |
+| Dark        |
+| Deceive     |
+| Delay       |
+| Deprive     |
+| Disrupt     |
+| Divide      |
+| Door        |
+| Drop        |
+| Duplicate   |
+| Elaborate   |
+| Enemies     |
+| Energy      |
+| Fall        |
+| Fear        |
+| Fight       |
+| Fire        |
+| Floor       |
+| Frightening |
+| Harm        |
+| Heat        |
+| Heavy       |
+| Helpless    |
+| Horrible    |
+| Illusion    |
+| Imprison    |
+| Lethal      |
+| Loud        |
+| Lure        |
+| Magic       |
+| Mechanical  |
+| Mental      |
+| Messy       |
+| Monster     |
+| Natural     |
+| Object      |
+| Odd         |
+| Old         |
+| Pain        |
+| Plants      |
+| Portal      |
+| Possessions |
+| Prison      |
+| Projectile  |
+| Riddle      |
+| Scary       |
+| Simple      |
+| Sounds      |
+| Stab        |
+| Stop        |
+| Strange     |
+| Strangle    |
+| Suppress    |
+| Take        |
+| Toxin       |
+| Transform   |
+| Transport   |
+| Treasure    |
+| Trials      |
+| Trigger     |
+| Unleash     |
+| Wall        |
+| Warning     |
+| Water       |
+| Weapon      |
+| Wound       |
 ^Mythic2DungeonTraps

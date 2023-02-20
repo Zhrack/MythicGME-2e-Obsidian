@@ -1,107 +1,104 @@
-### Characters Background: `dice: [[Characters Background#^Mythic2CharactersBackground]]`
-### Characters Background: `dice: [[Characters Background#^Mythic2CharactersBackground]]`
-
 ## Characters Background
-| 1d100 | Result       |
-| ----- | ------------ |
-| 1     | Abandoned    |
-| 2     | Abuse        |
-| 3     | Academic     |
-| 4     | Activity     |
-| 5     | Adventurous  |
-| 6     | Adversity    |
-| 7     | Art          |
-| 8     | Assist       |
-| 9     | Average      |
-| 10    | Bad          |
-| 11    | Bizarre      |
-| 12    | Bleak        |
-| 13    | Bold         |
-| 14    | Burden       |
-| 15    | Business     |
-| 16    | Care         |
-| 17    | Career       |
-| 18    | Chaotic      |
-| 19    | Cheat        |
-| 20    | Combat       |
-| 21    | Commitment   |
-| 22    | Community    |
-| 23    | Competition  |
-| 24    | Conflict     |
-| 25    | Control      |
-| 26    | Crime        |
-| 27    | Damaged      |
-| 28    | Danger       |
-| 29    | Death        |
-| 30    | Deceive      |
-| 31    | Decrease     |
-| 32    | Defeated     |
-| 33    | Disaster     |
-| 34    | Dispute      |
-| 35    | Emotion      |
-| 36    | Environment  |
-| 37    | Escape       |
-| 38    | Exile        |
-| 39    | Experience   |
-| 40    | Failure      |
-| 41    | Faith        |
-| 42    | Fame         |
-| 43    | Family       |
-| 44    | Fortunate    |
-| 45    | Free         |
-| 46    | Freedom      |
-| 47    | Friend       |
-| 48    | Gifts        |
-| 49    | Good         |
-| 50    | Guided       |
-| 51    | Hard         |
-| 52    | Harm         |
-| 53    | Harsh        |
-| 54    | Heal         |
-| 55    | Helped       |
-| 56    | Heroic       |
-| 57    | Humble       |
-| 58    | Humiliation  |
-| 59    | Imprisonment |
-| 60    | Independent  |
-| 61    | Inherit      |
-| 62    | Injury       |
-| 63    | Injustice    |
-| 64    | Legal        |
-| 65    | Loss         |
-| 66    | Military     |
-| 67    | Mistake      |
-| 68    | Mundane      |
-| 69    | Nature       |
-| 70    | Outsider     |
-| 71    | Person       |
-| 72    | Place        |
-| 73    | Poor         |
-| 74    | Power        |
-| 75    | Prestige     |
-| 76    | Privilege    |
-| 77    | Pursued      |
-| 78    | Recruited    |
-| 79    | Religion     |
-| 80    | Rural        |
-| 81    | Saved        |
-| 82    | Search       |
-| 83    | Seclusion    |
-| 84    | Service      |
-| 85    | Sheltered    |
-| 86    | Skill        |
-| 87    | Strange      |
-| 88    | Successful   |
-| 89    | Survival     |
-| 90    | Tradition    |
-| 91    | Training     |
-| 92    | Trauma       |
-| 93    | Travel       |
-| 94    | Urban        |
-| 95    | War          |
-| 96    | Wealth       |
-| 97    | Wild         |
-| 98    | Work         |
-| 99    | Wounded      |
-| 100   | Youth        |
+| Result       |
+| ------------ |
+| Abandoned    |
+| Abuse        |
+| Academic     |
+| Activity     |
+| Adventurous  |
+| Adversity    |
+| Art          |
+| Assist       |
+| Average      |
+| Bad          |
+| Bizarre      |
+| Bleak        |
+| Bold         |
+| Burden       |
+| Business     |
+| Care         |
+| Career       |
+| Chaotic      |
+| Cheat        |
+| Combat       |
+| Commitment   |
+| Community    |
+| Competition  |
+| Conflict     |
+| Control      |
+| Crime        |
+| Damaged      |
+| Danger       |
+| Death        |
+| Deceive      |
+| Decrease     |
+| Defeated     |
+| Disaster     |
+| Dispute      |
+| Emotion      |
+| Environment  |
+| Escape       |
+| Exile        |
+| Experience   |
+| Failure      |
+| Faith        |
+| Fame         |
+| Family       |
+| Fortunate    |
+| Free         |
+| Freedom      |
+| Friend       |
+| Gifts        |
+| Good         |
+| Guided       |
+| Hard         |
+| Harm         |
+| Harsh        |
+| Heal         |
+| Helped       |
+| Heroic       |
+| Humble       |
+| Humiliation  |
+| Imprisonment |
+| Independent  |
+| Inherit      |
+| Injury       |
+| Injustice    |
+| Legal        |
+| Loss         |
+| Military     |
+| Mistake      |
+| Mundane      |
+| Nature       |
+| Outsider     |
+| Person       |
+| Place        |
+| Poor         |
+| Power        |
+| Prestige     |
+| Privilege    |
+| Pursued      |
+| Recruited    |
+| Religion     |
+| Rural        |
+| Saved        |
+| Search       |
+| Seclusion    |
+| Service      |
+| Sheltered    |
+| Skill        |
+| Strange      |
+| Successful   |
+| Survival     |
+| Tradition    |
+| Training     |
+| Trauma       |
+| Travel       |
+| Urban        |
+| War          |
+| Wealth       |
+| Wild         |
+| Work         |
+| Wounded      |
+| Youth        |
 ^Mythic2CharactersBackground

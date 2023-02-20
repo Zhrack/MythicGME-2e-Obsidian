@@ -1,107 +1,104 @@
-### Magic Item Descriptors: `dice: [[Magic Item Descriptors#^Mythic2MagicItemDescriptors]]`
-### Magic Item Descriptors: `dice: [[Magic Item Descriptors#^Mythic2MagicItemDescriptors]]`
-
 ## Magic Item Descriptors
-| 1d100 | Result        |
-| ----- | ------------- |
-| 1     | Animal        |
-| 2     | Animate       |
-| 3     | Area          |
-| 4     | Armor         |
-| 5     | Assist        |
-| 6     | Attack        |
-| 7     | Attract       |
-| 8     | Benefit       |
-| 9     | Bestow        |
-| 10    | Block         |
-| 11    | Book          |
-| 12    | Change        |
-| 13    | Clothing      |
-| 14    | Cloud         |
-| 15    | Cold          |
-| 16    | Communication |
-| 17    | Container     |
-| 18    | Control       |
-| 19    | Create        |
-| 20    | Curse         |
-| 21    | Damage        |
-| 22    | Death         |
-| 23    | Deceit        |
-| 24    | Decrease      |
-| 25    | Defense       |
-| 26    | Destroy       |
-| 27    | Detect        |
-| 28    | Dimensions    |
-| 29    | Elements      |
-| 30    | Emotion       |
-| 31    | Energy        |
-| 32    | Enhance       |
-| 33    | Environment   |
-| 34    | Escape        |
-| 35    | Evil          |
-| 36    | Explode       |
-| 37    | Fear          |
-| 38    | Fire          |
-| 39    | Flight        |
-| 40    | Food          |
-| 41    | Gem           |
-| 42    | Good          |
-| 43    | Group         |
-| 44    | Harm          |
-| 45    | Heal          |
-| 46    | Health        |
-| 47    | Helpful       |
-| 48    | Illness       |
-| 49    | Illusion      |
-| 50    | Imbue         |
-| 51    | Imitate       |
-| 52    | Increase      |
-| 53    | Information   |
-| 54    | Inhibit       |
-| 55    | Instant       |
-| 56    | Jewelry       |
-| 57    | Lethal        |
-| 58    | Life          |
-| 59    | Light         |
-| 60    | Limited       |
-| 61    | Liquid        |
-| 62    | Mental        |
-| 63    | Monster       |
-| 64    | Multi         |
-| 65    | Nature        |
-| 66    | Object        |
-| 67    | Orb           |
-| 68    | Others        |
-| 69    | Physical      |
-| 70    | Plants        |
-| 71    | Poison        |
-| 72    | Potion        |
-| 73    | Power         |
-| 74    | Ranged        |
-| 75    | Resistance    |
-| 76    | Restore       |
-| 77    | Ring          |
-| 78    | Rope          |
-| 79    | Rune          |
-| 80    | Safety        |
-| 81    | Scroll        |
-| 82    | Self          |
-| 83    | Senses        |
-| 84    | Skill         |
-| 85    | Special       |
-| 86    | Speed         |
-| 87    | Spell         |
-| 88    | Staff         |
-| 89    | Strange       |
-| 90    | Summon        |
-| 91    | Sword         |
-| 92    | Tool          |
-| 93    | Transform     |
-| 94    | Trap          |
-| 95    | Travel        |
-| 96    | Useful        |
-| 97    | Utility       |
-| 98    | Wand          |
-| 99    | Water         |
-| 100   | Weapon        |
+| Result        |
+| ------------- |
+| Animal        |
+| Animate       |
+| Area          |
+| Armor         |
+| Assist        |
+| Attack        |
+| Attract       |
+| Benefit       |
+| Bestow        |
+| Block         |
+| Book          |
+| Change        |
+| Clothing      |
+| Cloud         |
+| Cold          |
+| Communication |
+| Container     |
+| Control       |
+| Create        |
+| Curse         |
+| Damage        |
+| Death         |
+| Deceit        |
+| Decrease      |
+| Defense       |
+| Destroy       |
+| Detect        |
+| Dimensions    |
+| Elements      |
+| Emotion       |
+| Energy        |
+| Enhance       |
+| Environment   |
+| Escape        |
+| Evil          |
+| Explode       |
+| Fear          |
+| Fire          |
+| Flight        |
+| Food          |
+| Gem           |
+| Good          |
+| Group         |
+| Harm          |
+| Heal          |
+| Health        |
+| Helpful       |
+| Illness       |
+| Illusion      |
+| Imbue         |
+| Imitate       |
+| Increase      |
+| Information   |
+| Inhibit       |
+| Instant       |
+| Jewelry       |
+| Lethal        |
+| Life          |
+| Light         |
+| Limited       |
+| Liquid        |
+| Mental        |
+| Monster       |
+| Multi         |
+| Nature        |
+| Object        |
+| Orb           |
+| Others        |
+| Physical      |
+| Plants        |
+| Poison        |
+| Potion        |
+| Power         |
+| Ranged        |
+| Resistance    |
+| Restore       |
+| Ring          |
+| Rope          |
+| Rune          |
+| Safety        |
+| Scroll        |
+| Self          |
+| Senses        |
+| Skill         |
+| Special       |
+| Speed         |
+| Spell         |
+| Staff         |
+| Strange       |
+| Summon        |
+| Sword         |
+| Tool          |
+| Transform     |
+| Trap          |
+| Travel        |
+| Useful        |
+| Utility       |
+| Wand          |
+| Water         |
+| Weapon        |
 ^Mythic2MagicItemDescriptors

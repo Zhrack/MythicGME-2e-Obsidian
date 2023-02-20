@@ -1,108 +1,104 @@
-### Terrain Descriptors: `dice: [[Terrain Descriptors#^Mythic2TerrainDescriptors]]`
-### Terrain Descriptors: `dice: [[Terrain Descriptors#^Mythic2TerrainDescriptors]]`
-
-## 
 ## Terrain Descriptors
-| 1d100 | Result       |
-| ----- | ------------ |
-| 1     | Abandoned    |
-| 2     | Abundant     |
-| 3     | Activity     |
-| 4     | Advanced     |
-| 5     | Allies       |
-| 6     | Ancient      |
-| 7     | Animals      |
-| 8     | Atmosphere   |
-| 9     | Barren       |
-| 10    | Beautiful    |
-| 11    | Bizarre      |
-| 12    | Catastrophe  |
-| 13    | Chaotic      |
-| 14    | City         |
-| 15    | Civilization |
-| 16    | Cliffs       |
-| 17    | Clouds       |
-| 18    | Cold         |
-| 19    | Colorful     |
-| 20    | Combative    |
-| 21    | Communicate  |
-| 22    | Conflict     |
-| 23    | Damaged      |
-| 24    | Danger       |
-| 25    | Defense      |
-| 26    | Desert       |
-| 27    | Dry          |
-| 28    | Dull         |
-| 29    | Elements     |
-| 30    | Empty        |
-| 31    | Energy       |
-| 32    | Enormous     |
-| 33    | Environment  |
-| 34    | Fertile      |
-| 35    | Frightening  |
-| 36    | Habitable    |
-| 37    | Harsh        |
-| 38    | Hazy         |
-| 39    | Healthy      |
-| 40    | Helpful      |
-| 41    | Hostile      |
-| 42    | Hot          |
-| 43    | Intense      |
-| 44    | Interesting  |
-| 45    | Large        |
-| 46    | Lethal       |
-| 47    | Life         |
-| 48    | Lovely       |
-| 49    | Magnificent  |
-| 50    | Masses       |
-| 51    | Mechanical   |
-| 52    | Message      |
-| 53    | Mighty       |
-| 54    | Misfortune   |
-| 55    | Mountainous  |
-| 56    | Multiple     |
-| 57    | Mundane      |
-| 58    | Mysterious   |
-| 59    | Natural      |
-| 60    | Nature       |
-| 61    | Nondescript  |
-| 62    | Ocean        |
-| 63    | Odd          |
-| 64    | Peaceful     |
-| 65    | People       |
-| 66    | Plants       |
-| 67    | Populated    |
-| 68    | Powerful     |
-| 69    | Primitive    |
-| 70    | Rain         |
-| 71    | Rare         |
-| 72    | Remarkable   |
-| 73    | Resourceful  |
-| 74    | Riches       |
-| 75    | River        |
-| 76    | Rocky        |
-| 77    | Rough        |
-| 78    | Ruined       |
-| 79    | Ruins        |
-| 80    | Sandy        |
-| 81    | Scary        |
-| 82    | Simple       |
-| 83    | Small        |
-| 84    | Strange      |
-| 85    | Strong       |
-| 86    | Technology   |
-| 87    | Threatening  |
-| 88    | Toxic        |
-| 89    | Tranquil     |
-| 90    | Trees        |
-| 91    | Unusual      |
-| 92    | Valuable     |
-| 93    | Violent      |
-| 94    | Warm         |
-| 95    | Water        |
-| 96    | Weak         |
-| 97    | Weather      |
-| 98    | Wild         |
-| 99    | Windy        |
-| 100   | Wonders      |
+| Result       |
+| ------------ |
+| Abandoned    |
+| Abundant     |
+| Activity     |
+| Advanced     |
+| Allies       |
+| Ancient      |
+| Animals      |
+| Atmosphere   |
+| Barren       |
+| Beautiful    |
+| Bizarre      |
+| Catastrophe  |
+| Chaotic      |
+| City         |
+| Civilization |
+| Cliffs       |
+| Clouds       |
+| Cold         |
+| Colorful     |
+| Combative    |
+| Communicate  |
+| Conflict     |
+| Damaged      |
+| Danger       |
+| Defense      |
+| Desert       |
+| Dry          |
+| Dull         |
+| Elements     |
+| Empty        |
+| Energy       |
+| Enormous     |
+| Environment  |
+| Fertile      |
+| Frightening  |
+| Habitable    |
+| Harsh        |
+| Hazy         |
+| Healthy      |
+| Helpful      |
+| Hostile      |
+| Hot          |
+| Intense      |
+| Interesting  |
+| Large        |
+| Lethal       |
+| Life         |
+| Lovely       |
+| Magnificent  |
+| Masses       |
+| Mechanical   |
+| Message      |
+| Mighty       |
+| Misfortune   |
+| Mountainous  |
+| Multiple     |
+| Mundane      |
+| Mysterious   |
+| Natural      |
+| Nature       |
+| Nondescript  |
+| Ocean        |
+| Odd          |
+| Peaceful     |
+| People       |
+| Plants       |
+| Populated    |
+| Powerful     |
+| Primitive    |
+| Rain         |
+| Rare         |
+| Remarkable   |
+| Resourceful  |
+| Riches       |
+| River        |
+| Rocky        |
+| Rough        |
+| Ruined       |
+| Ruins        |
+| Sandy        |
+| Scary        |
+| Simple       |
+| Small        |
+| Strange      |
+| Strong       |
+| Technology   |
+| Threatening  |
+| Toxic        |
+| Tranquil     |
+| Trees        |
+| Unusual      |
+| Valuable     |
+| Violent      |
+| Warm         |
+| Water        |
+| Weak         |
+| Weather      |
+| Wild         |
+| Windy        |
+| Wonders      |
 ^Mythic2TerrainDescriptors

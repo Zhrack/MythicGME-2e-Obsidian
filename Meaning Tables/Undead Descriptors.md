@@ -1,108 +1,104 @@
-### Undead Descriptors: `dice: [[Undead Descriptors#^Mythic2UndeadDescriptors]]`
-### Undead Descriptors: `dice: [[Undead Descriptors#^Mythic2UndeadDescriptors]]`
-
-## 
 ## Undead Descriptors
-| 1d100 | Result        |
-| ----- | ------------- |
-| 1     | Active        |
-| 2     | Aggressive    |
-| 3     | Angry         |
-| 4     | Animal        |
-| 5     | Anxious       |
-| 6     | Attract       |
-| 7     | Beautiful     |
-| 8     | Bestow        |
-| 9     | Bizarre       |
-| 10    | Bleak         |
-| 11    | Bold          |
-| 12    | Bound         |
-| 13    | Cold          |
-| 14    | Combative     |
-| 15    | Communicate   |
-| 16    | Control       |
-| 17    | Create        |
-| 18    | Creepy        |
-| 19    | Dangerous     |
-| 20    | Dark          |
-| 21    | Deceive       |
-| 22    | Dirty         |
-| 23    | Disgusting    |
-| 24    | Elements      |
-| 25    | Enemies       |
-| 26    | Energy        |
-| 27    | Environment   |
-| 28    | Evil          |
-| 29    | Fast          |
-| 30    | Fear          |
-| 31    | Fight         |
-| 32    | Floating      |
-| 33    | Friendly      |
-| 34    | Frightening   |
-| 35    | Glad          |
-| 36    | Glow          |
-| 37    | Goals         |
-| 38    | Good          |
-| 39    | Guide         |
-| 40    | Harm          |
-| 41    | Helpful       |
-| 42    | Helpless      |
-| 43    | Historical    |
-| 44    | Horrible      |
-| 45    | Hungry        |
-| 46    | Imitate       |
-| 47    | Information   |
-| 48    | Insubstantial |
-| 49    | Intelligent   |
-| 50    | Large         |
-| 51    | Leadership    |
-| 52    | Lethal        |
-| 53    | Light         |
-| 54    | Limited       |
-| 55    | Lonely        |
-| 56    | Love          |
-| 57    | Macabre       |
-| 58    | Malice        |
-| 59    | Message       |
-| 60    | Messy         |
-| 61    | Mighty        |
-| 62    | Mindless      |
-| 63    | Miserable     |
-| 64    | Misfortune    |
-| 65    | Monstrous     |
-| 66    | Mundane       |
-| 67    | Odd           |
-| 68    | Old           |
-| 69    | Pain          |
-| 70    | Pale          |
-| 71    | Passive       |
-| 72    | Possessions   |
-| 73    | Possessive    |
-| 74    | Powerful      |
-| 75    | Powers        |
-| 76    | Purposeful    |
-| 77    | Pursue        |
-| 78    | Quiet         |
-| 79    | Resistant     |
-| 80    | Rotting       |
-| 81    | Scary         |
-| 82    | Seeking       |
-| 83    | Shambling     |
-| 84    | Slow          |
-| 85    | Small         |
-| 86    | Smelly        |
-| 87    | Strange       |
-| 88    | Strong        |
-| 89    | Threatening   |
-| 90    | Tough         |
-| 91    | Transform     |
-| 92    | Travel        |
-| 93    | Trick         |
-| 94    | Vengeful      |
-| 95    | Violent       |
-| 96    | Weak          |
-| 97    | Weakness      |
-| 98    | Weapons       |
-| 99    | Wounds        |
-| 100   | Young         |
+| Result        |
+| ------------- |
+| Active        |
+| Aggressive    |
+| Angry         |
+| Animal        |
+| Anxious       |
+| Attract       |
+| Beautiful     |
+| Bestow        |
+| Bizarre       |
+| Bleak         |
+| Bold          |
+| Bound         |
+| Cold          |
+| Combative     |
+| Communicate   |
+| Control       |
+| Create        |
+| Creepy        |
+| Dangerous     |
+| Dark          |
+| Deceive       |
+| Dirty         |
+| Disgusting    |
+| Elements      |
+| Enemies       |
+| Energy        |
+| Environment   |
+| Evil          |
+| Fast          |
+| Fear          |
+| Fight         |
+| Floating      |
+| Friendly      |
+| Frightening   |
+| Glad          |
+| Glow          |
+| Goals         |
+| Good          |
+| Guide         |
+| Harm          |
+| Helpful       |
+| Helpless      |
+| Historical    |
+| Horrible      |
+| Hungry        |
+| Imitate       |
+| Information   |
+| Insubstantial |
+| Intelligent   |
+| Large         |
+| Leadership    |
+| Lethal        |
+| Light         |
+| Limited       |
+| Lonely        |
+| Love          |
+| Macabre       |
+| Malice        |
+| Message       |
+| Messy         |
+| Mighty        |
+| Mindless      |
+| Miserable     |
+| Misfortune    |
+| Monstrous     |
+| Mundane       |
+| Odd           |
+| Old           |
+| Pain          |
+| Pale          |
+| Passive       |
+| Possessions   |
+| Possessive    |
+| Powerful      |
+| Powers        |
+| Purposeful    |
+| Pursue        |
+| Quiet         |
+| Resistant     |
+| Rotting       |
+| Scary         |
+| Seeking       |
+| Shambling     |
+| Slow          |
+| Small         |
+| Smelly        |
+| Strange       |
+| Strong        |
+| Threatening   |
+| Tough         |
+| Transform     |
+| Travel        |
+| Trick         |
+| Vengeful      |
+| Violent       |
+| Weak          |
+| Weakness      |
+| Weapons       |
+| Wounds        |
+| Young         |
 ^Mythic2UndeadDescriptors

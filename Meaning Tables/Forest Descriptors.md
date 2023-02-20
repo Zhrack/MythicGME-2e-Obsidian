@@ -1,107 +1,104 @@
-### Forest Descriptors: `dice: [[Forest Descriptors#^Mythic2ForestDescriptors]]`
-### Forest Descriptors: `dice: [[Forest Descriptors#^Mythic2ForestDescriptors]]`
-
 ## Forest Descriptors
-| 1d100 | Result      |
-| ----- | ----------- |
-| 1     | Adversity   |
-| 2     | Aggressive  |
-| 3     | Ambush      |
-| 4     | Ancient     |
-| 5     | Animal      |
-| 6     | Aromatic    |
-| 7     | Art         |
-| 8     | Assist      |
-| 9     | Average     |
-| 10    | Beautiful   |
-| 11    | Bizarre     |
-| 12    | Bleak       |
-| 13    | Block       |
-| 14    | Boulder     |
-| 15    | Cave        |
-| 16    | Chaotic     |
-| 17    | Cliff       |
-| 18    | Cold        |
-| 19    | Colorful    |
-| 20    | Combative   |
-| 21    | Communicate |
-| 22    | Creepy      |
-| 23    | Damaged     |
-| 24    | Danger      |
-| 25    | Dark        |
-| 26    | Death       |
-| 27    | Delicate    |
-| 28    | Dry         |
-| 29    | Elements    |
-| 30    | Encounter   |
-| 31    | Enormous    |
-| 32    | Environment |
-| 33    | Fearful     |
-| 34    | Feeble      |
-| 35    | Fierce      |
-| 36    | Food        |
-| 37    | Fortunate   |
-| 38    | Fresh       |
-| 39    | Harsh       |
-| 40    | Healthy     |
-| 41    | Helpful     |
-| 42    | Important   |
-| 43    | Information |
-| 44    | Intense     |
-| 45    | Interesting |
-| 46    | Lacking     |
-| 47    | Lake        |
-| 48    | Large       |
-| 49    | Lean        |
-| 50    | Ledge       |
-| 51    | Lethal      |
-| 52    | Loud        |
-| 53    | Magnificent |
-| 54    | Majestic    |
-| 55    | Masses      |
-| 56    | Mature      |
-| 57    | Message     |
-| 58    | Mighty      |
-| 59    | Mundane     |
-| 60    | Mysterious  |
-| 61    | Natural     |
-| 62    | Nature      |
-| 63    | Nondescript |
-| 64    | Normal      |
-| 65    | Odd         |
-| 66    | Old         |
-| 67    | Path        |
-| 68    | Peaceful    |
-| 69    | Plants      |
-| 70    | Pond        |
-| 71    | Possessions |
-| 72    | Powerful    |
-| 73    | Pursue      |
-| 74    | Quiet       |
-| 75    | Rare        |
-| 76    | Reassuring  |
-| 77    | Remarkable  |
-| 78    | River       |
-| 79    | Rocks       |
-| 80    | Rough       |
-| 81    | Ruined      |
-| 82    | Scary       |
-| 83    | Simple      |
-| 84    | Slope       |
-| 85    | Small       |
-| 86    | Sounds      |
-| 87    | Strange     |
-| 88    | Strong      |
-| 89    | Threatening |
-| 90    | Tranquil    |
-| 91    | Tree        |
-| 92    | Unusual     |
-| 93    | Valuable    |
-| 94    | Violent     |
-| 95    | Warm        |
-| 96    | Watery      |
-| 97    | Weak        |
-| 98    | Weather     |
-| 99    | Wild        |
-| 100   | Young       |
+| Result      |
+| ----------- |
+| Adversity   |
+| Aggressive  |
+| Ambush      |
+| Ancient     |
+| Animal      |
+| Aromatic    |
+| Art         |
+| Assist      |
+| Average     |
+| Beautiful   |
+| Bizarre     |
+| Bleak       |
+| Block       |
+| Boulder     |
+| Cave        |
+| Chaotic     |
+| Cliff       |
+| Cold        |
+| Colorful    |
+| Combative   |
+| Communicate |
+| Creepy      |
+| Damaged     |
+| Danger      |
+| Dark        |
+| Death       |
+| Delicate    |
+| Dry         |
+| Elements    |
+| Encounter   |
+| Enormous    |
+| Environment |
+| Fearful     |
+| Feeble      |
+| Fierce      |
+| Food        |
+| Fortunate   |
+| Fresh       |
+| Harsh       |
+| Healthy     |
+| Helpful     |
+| Important   |
+| Information |
+| Intense     |
+| Interesting |
+| Lacking     |
+| Lake        |
+| Large       |
+| Lean        |
+| Ledge       |
+| Lethal      |
+| Loud        |
+| Magnificent |
+| Majestic    |
+| Masses      |
+| Mature      |
+| Message     |
+| Mighty      |
+| Mundane     |
+| Mysterious  |
+| Natural     |
+| Nature      |
+| Nondescript |
+| Normal      |
+| Odd         |
+| Old         |
+| Path        |
+| Peaceful    |
+| Plants      |
+| Pond        |
+| Possessions |
+| Powerful    |
+| Pursue      |
+| Quiet       |
+| Rare        |
+| Reassuring  |
+| Remarkable  |
+| River       |
+| Rocks       |
+| Rough       |
+| Ruined      |
+| Scary       |
+| Simple      |
+| Slope       |
+| Small       |
+| Sounds      |
+| Strange     |
+| Strong      |
+| Threatening |
+| Tranquil    |
+| Tree        |
+| Unusual     |
+| Valuable    |
+| Violent     |
+| Warm        |
+| Watery      |
+| Weak        |
+| Weather     |
+| Wild        |
+| Young       |
 ^Mythic2ForestDescriptors

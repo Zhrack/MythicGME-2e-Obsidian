@@ -1,107 +1,104 @@
-### Cryptic Message: `dice: [[Cryptic Message#^Mythic2CrypticMessage]]`
-### Cryptic Message: `dice: [[Cryptic Message#^Mythic2CrypticMessage]]`
-
 ## Cryptic Message
-| 1d100 | Result      |
-| ----- | ----------- |
-| 1     | Abandoned   |
-| 2     | Activity    |
-| 3     | Adventure   |
-| 4     | Adversity   |
-| 5     | Advice      |
-| 6     | Allies      |
-| 7     | Anger       |
-| 8     | Bestow      |
-| 9     | Betray      |
-| 10    | Bizarre     |
-| 11    | Bleak       |
-| 12    | Business    |
-| 13    | Care        |
-| 14    | Colorful    |
-| 15    | Communicate |
-| 16    | Conflict    |
-| 17    | Creepy      |
-| 18    | Damaged     |
-| 19    | Danger      |
-| 20    | Death       |
-| 21    | Deceive     |
-| 22    | Defiant     |
-| 23    | Dispute     |
-| 24    | Divide      |
-| 25    | Emotions    |
-| 26    | Enemies     |
-| 27    | Environment |
-| 28    | Evil        |
-| 29    | Expose      |
-| 30    | Failure     |
-| 31    | Fame        |
-| 32    | Fear        |
-| 33    | Fight       |
-| 34    | Frantic     |
-| 35    | Free        |
-| 36    | Friendship  |
-| 37    | Goals       |
-| 38    | Good        |
-| 39    | Guide       |
-| 40    | Harm        |
-| 41    | Help        |
-| 42    | Helpful     |
-| 43    | Hidden      |
-| 44    | Hope        |
-| 45    | Horrible    |
-| 46    | Important   |
-| 47    | Information |
-| 48    | Innocent    |
-| 49    | Instruction |
-| 50    | Intrigues   |
-| 51    | Language    |
-| 52    | Leadership  |
-| 53    | Legal       |
-| 54    | Legend      |
-| 55    | Liberty     |
-| 56    | Lies        |
-| 57    | Lost        |
-| 58    | Love        |
-| 59    | Malice      |
-| 60    | Messy       |
-| 61    | Misfortune  |
-| 62    | Mistrust    |
-| 63    | Move        |
-| 64    | Mundane     |
-| 65    | Mysterious  |
-| 66    | Neglect     |
-| 67    | Normal      |
-| 68    | Obscured    |
-| 69    | Official    |
-| 70    | Old         |
-| 71    | Oppose      |
-| 72    | Partial     |
-| 73    | Passion     |
-| 74    | Plans       |
-| 75    | Possessions |
-| 76    | Power       |
-| 77    | Propose     |
-| 78    | Punish      |
-| 79    | Pursue      |
-| 80    | Rare        |
-| 81    | Reassuring  |
-| 82    | Recipient   |
-| 83    | Reveal      |
-| 84    | Riches      |
-| 85    | Riddle      |
-| 86    | Rumor       |
-| 87    | Secret      |
-| 88    | Start       |
-| 89    | Stop        |
-| 90    | Strange     |
-| 91    | Struggle    |
-| 92    | Success     |
-| 93    | Tension     |
-| 94    | Threaten    |
-| 95    | Truce       |
-| 96    | Trust       |
-| 97    | Unknown     |
-| 98    | Vengeance   |
-| 99    | Violence    |
-| 100   | Warning     |
+| Result      |
+| ----------- |
+| Abandoned   |
+| Activity    |
+| Adventure   |
+| Adversity   |
+| Advice      |
+| Allies      |
+| Anger       |
+| Bestow      |
+| Betray      |
+| Bizarre     |
+| Bleak       |
+| Business    |
+| Care        |
+| Colorful    |
+| Communicate |
+| Conflict    |
+| Creepy      |
+| Damaged     |
+| Danger      |
+| Death       |
+| Deceive     |
+| Defiant     |
+| Dispute     |
+| Divide      |
+| Emotions    |
+| Enemies     |
+| Environment |
+| Evil        |
+| Expose      |
+| Failure     |
+| Fame        |
+| Fear        |
+| Fight       |
+| Frantic     |
+| Free        |
+| Friendship  |
+| Goals       |
+| Good        |
+| Guide       |
+| Harm        |
+| Help        |
+| Helpful     |
+| Hidden      |
+| Hope        |
+| Horrible    |
+| Important   |
+| Information |
+| Innocent    |
+| Instruction |
+| Intrigues   |
+| Language    |
+| Leadership  |
+| Legal       |
+| Legend      |
+| Liberty     |
+| Lies        |
+| Lost        |
+| Love        |
+| Malice      |
+| Messy       |
+| Misfortune  |
+| Mistrust    |
+| Move        |
+| Mundane     |
+| Mysterious  |
+| Neglect     |
+| Normal      |
+| Obscured    |
+| Official    |
+| Old         |
+| Oppose      |
+| Partial     |
+| Passion     |
+| Plans       |
+| Possessions |
+| Power       |
+| Propose     |
+| Punish      |
+| Pursue      |
+| Rare        |
+| Reassuring  |
+| Recipient   |
+| Reveal      |
+| Riches      |
+| Riddle      |
+| Rumor       |
+| Secret      |
+| Start       |
+| Stop        |
+| Strange     |
+| Struggle    |
+| Success     |
+| Tension     |
+| Threaten    |
+| Truce       |
+| Trust       |
+| Unknown     |
+| Vengeance   |
+| Violence    |
+| Warning     |
 ^Mythic2CrypticMessage

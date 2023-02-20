@@ -1,108 +1,104 @@
-### Visions & Dreams: `dice: [[Visions & Dreams#^Mythic2VisionsDreams]]`
-### Visions & Dreams: `dice: [[Visions & Dreams#^Mythic2VisionsDreams]]`
-
-## 
 ## Visions & Dreams
-| 1d100 | Result      |
-| ----- | ----------- |
-| 1     | Activity    |
-| 2     | Adversity   |
-| 3     | Allies      |
-| 4     | Assist      |
-| 5     | Attainment  |
-| 6     | Bizarre     |
-| 7     | Bleak       |
-| 8     | Catastrophe |
-| 9     | Celebrate   |
-| 10    | Change      |
-| 11    | Colorful    |
-| 12    | Conflict    |
-| 13    | Contact     |
-| 14    | Control     |
-| 15    | Creepy      |
-| 16    | Crisis      |
-| 17    | Cruelty     |
-| 18    | Danger      |
-| 19    | Dark        |
-| 20    | Death       |
-| 21    | Defeat      |
-| 22    | Disruption  |
-| 23    | Elements    |
-| 24    | Emotions    |
-| 25    | Enemies     |
-| 26    | Energy      |
-| 27    | Environment |
-| 28    | Event       |
-| 29    | Evil        |
-| 30    | Failure     |
-| 31    | Fears       |
-| 32    | Festive     |
-| 33    | Fight       |
-| 34    | Friendship  |
-| 35    | Frightening |
-| 36    | Future      |
-| 37    | Goals       |
-| 38    | Good        |
-| 39    | Guidance    |
-| 40    | Harm        |
-| 41    | Helpful     |
-| 42    | Helpless    |
-| 43    | Hint        |
-| 44    | Hope        |
-| 45    | Horrible    |
-| 46    | Hurry       |
-| 47    | Ideas       |
-| 48    | Implore     |
-| 49    | Important   |
-| 50    | Incomplete  |
-| 51    | Information |
-| 52    | Instruction |
-| 53    | Liberty     |
-| 54    | Lies        |
-| 55    | Love        |
-| 56    | Malice      |
-| 57    | Masses      |
-| 58    | Mechanical  |
-| 59    | Message     |
-| 60    | Messy       |
-| 61    | Military    |
-| 62    | Misfortune  |
-| 63    | Mundane     |
-| 64    | Mysterious  |
-| 65    | Natural     |
-| 66    | Obscure     |
-| 67    | Odd         |
-| 68    | Oppose      |
-| 69    | Path        |
-| 70    | Peace       |
-| 71    | People      |
-| 72    | Place       |
-| 73    | Plans       |
-| 74    | Plot        |
-| 75    | Positive    |
-| 76    | Possessions |
-| 77    | Power       |
-| 78    | Preventable |
-| 79    | Reassuring  |
-| 80    | Riches      |
-| 81    | Riddle      |
-| 82    | Ruin        |
-| 83    | Scary       |
-| 84    | Simple      |
-| 85    | Strange     |
-| 86    | Struggle    |
-| 87    | Success     |
-| 88    | Suffering   |
-| 89    | Suppress    |
-| 90    | Tension     |
-| 91    | Threat      |
-| 92    | Time        |
-| 93    | Travel      |
-| 94    | Trouble     |
-| 95    | Trust       |
-| 96    | Uncertain   |
-| 97    | Unsettling  |
-| 98    | Violence    |
-| 99    | Warning     |
-| 100   | Weapon      |
+| Result      |
+| ----------- |
+| Activity    |
+| Adversity   |
+| Allies      |
+| Assist      |
+| Attainment  |
+| Bizarre     |
+| Bleak       |
+| Catastrophe |
+| Celebrate   |
+| Change      |
+| Colorful    |
+| Conflict    |
+| Contact     |
+| Control     |
+| Creepy      |
+| Crisis      |
+| Cruelty     |
+| Danger      |
+| Dark        |
+| Death       |
+| Defeat      |
+| Disruption  |
+| Elements    |
+| Emotions    |
+| Enemies     |
+| Energy      |
+| Environment |
+| Event       |
+| Evil        |
+| Failure     |
+| Fears       |
+| Festive     |
+| Fight       |
+| Friendship  |
+| Frightening |
+| Future      |
+| Goals       |
+| Good        |
+| Guidance    |
+| Harm        |
+| Helpful     |
+| Helpless    |
+| Hint        |
+| Hope        |
+| Horrible    |
+| Hurry       |
+| Ideas       |
+| Implore     |
+| Important   |
+| Incomplete  |
+| Information |
+| Instruction |
+| Liberty     |
+| Lies        |
+| Love        |
+| Malice      |
+| Masses      |
+| Mechanical  |
+| Message     |
+| Messy       |
+| Military    |
+| Misfortune  |
+| Mundane     |
+| Mysterious  |
+| Natural     |
+| Obscure     |
+| Odd         |
+| Oppose      |
+| Path        |
+| Peace       |
+| People      |
+| Place       |
+| Plans       |
+| Plot        |
+| Positive    |
+| Possessions |
+| Power       |
+| Preventable |
+| Reassuring  |
+| Riches      |
+| Riddle      |
+| Ruin        |
+| Scary       |
+| Simple      |
+| Strange     |
+| Struggle    |
+| Success     |
+| Suffering   |
+| Suppress    |
+| Tension     |
+| Threat      |
+| Time        |
+| Travel      |
+| Trouble     |
+| Trust       |
+| Uncertain   |
+| Unsettling  |
+| Violence    |
+| Warning     |
+| Weapon      |
 ^Mythic2VisionsDreams

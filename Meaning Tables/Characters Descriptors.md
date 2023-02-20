@@ -1,107 +1,104 @@
-### Characters Descriptors: `dice: [[Characters Conversations#^Mythic2CharactersConversations]]`
-### Characters Descriptors: `dice: [[Characters Conversations#^Mythic2CharactersConversations]]`
-
 ## Characters Descriptors
-| 1d100 | Result        |
-| ----- | ------------- |
-| 1     | Abnormal      |
-| 2     | Active        |
-| 3     | Adventurous   |
-| 4     | Aggressive    |
-| 5     | Agreeable     |
-| 6     | Ally          |
-| 7     | Ancient       |
-| 8     | Angry         |
-| 9     | Anxious       |
-| 10    | Armed         |
-| 11    | Aromatic      |
-| 12    | Arrogant      |
-| 13    | Attractive    |
-| 14    | Awkward       |
-| 15    | Beautiful     |
-| 16    | Bizarre       |
-| 17    | Bleak         |
-| 18    | Bold          |
-| 19    | Brave         |
-| 20    | Busy          |
-| 21    | Calm          |
-| 22    | Capable       |
-| 23    | Careful       |
-| 24    | Careless      |
-| 25    | Caring        |
-| 26    | Cautious      |
-| 27    | Cheerful      |
-| 28    | Classy        |
-| 29    | Clean         |
-| 30    | Clumsy        |
-| 31    | Colorful      |
-| 32    | Combative     |
-| 33    | Commanding    |
-| 34    | Common        |
-| 35    | Competitive   |
-| 36    | Confident     |
-| 37    | Crazy         |
-| 38    | Curious       |
-| 39    | Dangerous     |
-| 40    | Different     |
-| 41    | Difficult     |
-| 42    | Dirty         |
-| 43    | Disagreeable  |
-| 44    | Disciplined   |
-| 45    | Educated      |
-| 46    | Elegant       |
-| 47    | Erratic       |
-| 48    | Exotic        |
-| 49    | Fancy         |
-| 50    | Fast          |
-| 51    | Foul          |
-| 52    | Frightened    |
-| 53    | Gentle        |
-| 54    | Harmful       |
-| 55    | Helpful       |
-| 56    | Heroic        |
-| 57    | Humorous      |
-| 58    | Hurt          |
-| 59    | Ignorant      |
-| 60    | Impulsive     |
-| 61    | Inept         |
-| 62    | Informative   |
-| 63    | Intelligent   |
-| 64    | Interesting   |
-| 65    | Intimidating  |
-| 66    | Intrusive     |
-| 67    | Large         |
-| 68    | Loud          |
-| 69    | Meek          |
-| 70    | Naive         |
-| 71    | Old           |
-| 72    | Passive       |
-| 73    | Polite        |
-| 74    | Poor          |
-| 75    | Powerful      |
-| 76    | Powerless     |
-| 77    | Primitive     |
-| 78    | Principled    |
-| 79    | Quiet         |
-| 80    | Respectful    |
-| 81    | Rough         |
-| 82    | Rude          |
-| 83    | Simple        |
-| 84    | Skilled       |
-| 85    | Slow          |
-| 86    | Small         |
-| 87    | Sneaky        |
-| 88    | Sophisticated |
-| 89    | Strange       |
-| 90    | Strong        |
-| 91    | Supportive    |
-| 92    | Surprising    |
-| 93    | Sweet         |
-| 94    | Trained       |
-| 95    | Uniformed     |
-| 96    | Unusual       |
-| 97    | Weak          |
-| 98    | Wealthy       |
-| 99    | Wild          |
-| 100   | Young         |
+| Result        |
+| ------------- |
+| Abnormal      |
+| Active        |
+| Adventurous   |
+| Aggressive    |
+| Agreeable     |
+| Ally          |
+| Ancient       |
+| Angry         |
+| Anxious       |
+| Armed         |
+| Aromatic      |
+| Arrogant      |
+| Attractive    |
+| Awkward       |
+| Beautiful     |
+| Bizarre       |
+| Bleak         |
+| Bold          |
+| Brave         |
+| Busy          |
+| Calm          |
+| Capable       |
+| Careful       |
+| Careless      |
+| Caring        |
+| Cautious      |
+| Cheerful      |
+| Classy        |
+| Clean         |
+| Clumsy        |
+| Colorful      |
+| Combative     |
+| Commanding    |
+| Common        |
+| Competitive   |
+| Confident     |
+| Crazy         |
+| Curious       |
+| Dangerous     |
+| Different     |
+| Difficult     |
+| Dirty         |
+| Disagreeable  |
+| Disciplined   |
+| Educated      |
+| Elegant       |
+| Erratic       |
+| Exotic        |
+| Fancy         |
+| Fast          |
+| Foul          |
+| Frightened    |
+| Gentle        |
+| Harmful       |
+| Helpful       |
+| Heroic        |
+| Humorous      |
+| Hurt          |
+| Ignorant      |
+| Impulsive     |
+| Inept         |
+| Informative   |
+| Intelligent   |
+| Interesting   |
+| Intimidating  |
+| Intrusive     |
+| Large         |
+| Loud          |
+| Meek          |
+| Naive         |
+| Old           |
+| Passive       |
+| Polite        |
+| Poor          |
+| Powerful      |
+| Powerless     |
+| Primitive     |
+| Principled    |
+| Quiet         |
+| Respectful    |
+| Rough         |
+| Rude          |
+| Simple        |
+| Skilled       |
+| Slow          |
+| Small         |
+| Sneaky        |
+| Sophisticated |
+| Strange       |
+| Strong        |
+| Supportive    |
+| Surprising    |
+| Sweet         |
+| Trained       |
+| Uniformed     |
+| Unusual       |
+| Weak          |
+| Wealthy       |
+| Wild          |
+| Young         |
 ^Mythic2CharactersDescriptors

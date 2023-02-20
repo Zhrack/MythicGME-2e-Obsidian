@@ -1,107 +1,104 @@
-### Domicile Descriptors: `dice: [[Domicile Descriptors#^Mythic2DomicileDescriptors]]`
-### Domicile Descriptors: `dice: [[Domicile Descriptors#^Mythic2DomicileDescriptors]]`
-
 ## Domicile Descriptors
-| 1d100 | Result       |
-| ----- | ------------ |
-| 1     | Abandoned    |
-| 2     | Activity     |
-| 3     | Animal       |
-| 4     | Aromatic     |
-| 5     | Art          |
-| 6     | Average      |
-| 7     | Beautiful    |
-| 8     | Bizarre      |
-| 9     | Bleak        |
-| 10    | Busy         |
-| 11    | Classy       |
-| 12    | Clean        |
-| 13    | Cluttered    |
-| 14    | Cold         |
-| 15    | Colorful     |
-| 16    | Comfort      |
-| 17    | Common       |
-| 18    | Cramped      |
-| 19    | Creepy       |
-| 20    | Crowded      |
-| 21    | Customized   |
-| 22    | Cute         |
-| 23    | Damaged      |
-| 24    | Dangerous    |
-| 25    | Dark         |
-| 26    | Desolate     |
-| 27    | Different    |
-| 28    | Dirty        |
-| 29    | Disagreeable |
-| 30    | Drab         |
-| 31    | Dull         |
-| 32    | Empty        |
-| 33    | Enormous     |
-| 34    | Expected     |
-| 35    | Extravagant  |
-| 36    | Faded        |
-| 37    | Fancy        |
-| 38    | Festive      |
-| 39    | Food         |
-| 40    | Frightening  |
-| 41    | Full         |
-| 42    | Home         |
-| 43    | Investment   |
-| 44    | Inviting     |
-| 45    | Lacking      |
-| 46    | Large        |
-| 47    | Lavish       |
-| 48    | Less         |
-| 49    | Light        |
-| 50    | Loud         |
-| 51    | Magnificent  |
-| 52    | Mechanical   |
-| 53    | Messy        |
-| 54    | Modern       |
-| 55    | Mundane      |
-| 56    | Mysterious   |
-| 57    | Natural      |
-| 58    | Neat         |
-| 59    | Neglected    |
-| 60    | Nondescript  |
-| 61    | Normal       |
-| 62    | Occupied     |
-| 63    | Odd          |
-| 64    | Open         |
-| 65    | Oppressive   |
-| 66    | Opulent      |
-| 67    | Organized    |
-| 68    | Plants       |
-| 69    | Poor         |
-| 70    | Portal       |
-| 71    | Possessions  |
-| 72    | Private      |
-| 73    | Protection   |
-| 74    | Quaint       |
-| 75    | Reassuring   |
-| 76    | Roomy        |
-| 77    | Rough        |
-| 78    | Ruined       |
-| 79    | Rustic       |
-| 80    | Scary        |
-| 81    | Secure       |
-| 82    | Security     |
-| 83    | Simple       |
-| 84    | Sleep        |
-| 85    | Small        |
-| 86    | Smelly       |
-| 87    | Sparse       |
-| 88    | Storage      |
-| 89    | Strange      |
-| 90    | Temporary    |
-| 91    | Thoughtful   |
-| 92    | Tidy         |
-| 93    | Tools        |
-| 94    | Tranquil     |
-| 95    | Upgrade      |
-| 96    | Utilitarian  |
-| 97    | Valuables    |
-| 98    | View         |
-| 99    | Warm         |
-| 100   | Water        |
+| Result       |
+| ------------ |
+| Abandoned    |
+| Activity     |
+| Animal       |
+| Aromatic     |
+| Art          |
+| Average      |
+| Beautiful    |
+| Bizarre      |
+| Bleak        |
+| Busy         |
+| Classy       |
+| Clean        |
+| Cluttered    |
+| Cold         |
+| Colorful     |
+| Comfort      |
+| Common       |
+| Cramped      |
+| Creepy       |
+| Crowded      |
+| Customized   |
+| Cute         |
+| Damaged      |
+| Dangerous    |
+| Dark         |
+| Desolate     |
+| Different    |
+| Dirty        |
+| Disagreeable |
+| Drab         |
+| Dull         |
+| Empty        |
+| Enormous     |
+| Expected     |
+| Extravagant  |
+| Faded        |
+| Fancy        |
+| Festive      |
+| Food         |
+| Frightening  |
+| Full         |
+| Home         |
+| Investment   |
+| Inviting     |
+| Lacking      |
+| Large        |
+| Lavish       |
+| Less         |
+| Light        |
+| Loud         |
+| Magnificent  |
+| Mechanical   |
+| Messy        |
+| Modern       |
+| Mundane      |
+| Mysterious   |
+| Natural      |
+| Neat         |
+| Neglected    |
+| Nondescript  |
+| Normal       |
+| Occupied     |
+| Odd          |
+| Open         |
+| Oppressive   |
+| Opulent      |
+| Organized    |
+| Plants       |
+| Poor         |
+| Portal       |
+| Possessions  |
+| Private      |
+| Protection   |
+| Quaint       |
+| Reassuring   |
+| Roomy        |
+| Rough        |
+| Ruined       |
+| Rustic       |
+| Scary        |
+| Secure       |
+| Security     |
+| Simple       |
+| Sleep        |
+| Small        |
+| Smelly       |
+| Sparse       |
+| Storage      |
+| Strange      |
+| Temporary    |
+| Thoughtful   |
+| Tidy         |
+| Tools        |
+| Tranquil     |
+| Upgrade      |
+| Utilitarian  |
+| Valuables    |
+| View         |
+| Warm         |
+| Water        |
 ^Mythic2DomicileDescriptors

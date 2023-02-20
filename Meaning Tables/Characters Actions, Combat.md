@@ -1,107 +1,104 @@
-### Characters Actions, Combat: `dice: [[Characters Actions, Combat#^Mythic2CharactersCombat]]`
-### Characters Actions, Combat: `dice: [[Characters Actions, Combat#^Mythic2CharactersCombat]]`
-
 ## Characters Actions, Combat
-| 1d100 | Result       |
-| ----- | ------------ |
-| 1     | Abandon      |
-| 2     | Abuse        |
-| 3     | Aggressive   |
-| 4     | Agree        |
-| 5     | Ally         |
-| 6     | Ambush       |
-| 7     | Amuse        |
-| 8     | Anger        |
-| 9     | Antagonize   |
-| 10    | Anxious      |
-| 11    | Assist       |
-| 12    | Attack       |
-| 13    | Betray       |
-| 14    | Block        |
-| 15    | Bold         |
-| 16    | Brave        |
-| 17    | Break        |
-| 18    | Calm         |
-| 19    | Careless     |
-| 20    | Carry        |
-| 21    | Cautious     |
-| 22    | Celebrate    |
-| 23    | Change       |
-| 24    | Charge       |
-| 25    | Communicate  |
-| 26    | Compete      |
-| 27    | Control      |
-| 28    | Crazy        |
-| 29    | Cruel        |
-| 30    | Damage       |
-| 31    | Deceive      |
-| 32    | Defend       |
-| 33    | Defiant      |
-| 34    | Delay        |
-| 35    | Disrupt      |
-| 36    | Divide       |
-| 37    | Dominate     |
-| 38    | Energetic    |
-| 39    | Enthusiastic |
-| 40    | Expectation  |
-| 41    | Fearful      |
-| 42    | Ferocious    |
-| 43    | Fierce       |
-| 44    | Fight        |
-| 45    | Flee         |
-| 46    | Frantic      |
-| 47    | Free         |
-| 48    | Frightening  |
-| 49    | Harm         |
-| 50    | Harsh        |
-| 51    | Hasty        |
-| 52    | Hide         |
-| 53    | Imitate      |
-| 54    | Imprison     |
-| 55    | Kill         |
-| 56    | Lead         |
-| 57    | Lethal       |
-| 58    | Liberty      |
-| 59    | Lie          |
-| 60    | Loud         |
-| 61    | Loyal        |
-| 62    | Magic        |
-| 63    | Mechanical   |
-| 64    | Mighty       |
-| 65    | Military     |
-| 66    | Mock         |
-| 67    | Move         |
-| 68    | Mysterious   |
-| 69    | Normal       |
-| 70    | Odd          |
-| 71    | Open         |
-| 72    | Oppose       |
-| 73    | Pain         |
-| 74    | Path         |
-| 75    | Prepare      |
-| 76    | Punish       |
-| 77    | Pursue       |
-| 78    | Rough        |
-| 79    | Rude         |
-| 80    | Ruin         |
-| 81    | Ruthless     |
-| 82    | Simple       |
-| 83    | Slow         |
-| 84    | Spy          |
-| 85    | Stop         |
-| 86    | Strange      |
-| 87    | Struggle     |
-| 88    | Suppress     |
-| 89    | Swift        |
-| 90    | Take         |
-| 91    | Technology   |
-| 92    | Threaten     |
-| 93    | Trick        |
-| 94    | Truce        |
-| 95    | Usurp        |
-| 96    | Vehicle      |
-| 97    | Vengeance    |
-| 98    | Waste        |
-| 99    | Weapon       |
-| 100   | Withdraw     |
+| Result       |
+| ------------ |
+| Abandon      |
+| Abuse        |
+| Aggressive   |
+| Agree        |
+| Ally         |
+| Ambush       |
+| Amuse        |
+| Anger        |
+| Antagonize   |
+| Anxious      |
+| Assist       |
+| Attack       |
+| Betray       |
+| Block        |
+| Bold         |
+| Brave        |
+| Break        |
+| Calm         |
+| Careless     |
+| Carry        |
+| Cautious     |
+| Celebrate    |
+| Change       |
+| Charge       |
+| Communicate  |
+| Compete      |
+| Control      |
+| Crazy        |
+| Cruel        |
+| Damage       |
+| Deceive      |
+| Defend       |
+| Defiant      |
+| Delay        |
+| Disrupt      |
+| Divide       |
+| Dominate     |
+| Energetic    |
+| Enthusiastic |
+| Expectation  |
+| Fearful      |
+| Ferocious    |
+| Fierce       |
+| Fight        |
+| Flee         |
+| Frantic      |
+| Free         |
+| Frightening  |
+| Harm         |
+| Harsh        |
+| Hasty        |
+| Hide         |
+| Imitate      |
+| Imprison     |
+| Kill         |
+| Lead         |
+| Lethal       |
+| Liberty      |
+| Lie          |
+| Loud         |
+| Loyal        |
+| Magic        |
+| Mechanical   |
+| Mighty       |
+| Military     |
+| Mock         |
+| Move         |
+| Mysterious   |
+| Normal       |
+| Odd          |
+| Open         |
+| Oppose       |
+| Pain         |
+| Path         |
+| Prepare      |
+| Punish       |
+| Pursue       |
+| Rough        |
+| Rude         |
+| Ruin         |
+| Ruthless     |
+| Simple       |
+| Slow         |
+| Spy          |
+| Stop         |
+| Strange      |
+| Struggle     |
+| Suppress     |
+| Swift        |
+| Take         |
+| Technology   |
+| Threaten     |
+| Trick        |
+| Truce        |
+| Usurp        |
+| Vehicle      |
+| Vengeance    |
+| Waste        |
+| Weapon       |
+| Withdraw     |
 ^Mythic2CharactersCombat

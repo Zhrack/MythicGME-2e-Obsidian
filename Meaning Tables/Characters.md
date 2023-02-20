@@ -1,107 +1,104 @@
-### Characters: `dice: [[Characters#^Mythic2Characters]]`
-### Characters: `dice: [[Characters#^Mythic2Characters]]`
-
 ## Characters
-| 1d100 | Result        |
-| ----- | ------------- |
-| 1     | Accompanied   |
-| 2     | Active        |
-| 3     | Aggressive    |
-| 4     | Ambush        |
-| 5     | Animal        |
-| 6     | Anxious       |
-| 7     | Armed         |
-| 8     | Beautiful     |
-| 9     | Bold          |
-| 10    | Busy          |
-| 11    | Calm          |
-| 12    | Careless      |
-| 13    | Casual        |
-| 14    | Cautious      |
-| 15    | Classy        |
-| 16    | Colorful      |
-| 17    | Combative     |
-| 18    | Crazy         |
-| 19    | Creepy        |
-| 20    | Curious       |
-| 21    | Dangerous     |
-| 22    | Deceitful     |
-| 23    | Defeated      |
-| 24    | Defiant       |
-| 25    | Delightful    |
-| 26    | Emotional     |
-| 27    | Energetic     |
-| 28    | Equipped      |
-| 29    | Excited       |
-| 30    | Expected      |
-| 31    | Familiar      |
-| 32    | Fast          |
-| 33    | Feeble        |
-| 34    | Feminine      |
-| 35    | Ferocious     |
-| 36    | Foe           |
-| 37    | Foolish       |
-| 38    | Fortunate     |
-| 39    | Fragrant      |
-| 40    | Frantic       |
-| 41    | Friend        |
-| 42    | Frightened    |
-| 43    | Frightening   |
-| 44    | Generous      |
-| 45    | Glad          |
-| 46    | Happy         |
-| 47    | Harmful       |
-| 48    | Helpful       |
-| 49    | Helpless      |
-| 50    | Hurt          |
-| 51    | Important     |
-| 52    | Inactive      |
-| 53    | Influential   |
-| 54    | Innocent      |
-| 55    | Intense       |
-| 56    | Knowledgeable |
-| 57    | Large         |
-| 58    | Lonely        |
-| 59    | Loud          |
-| 60    | Loyal         |
-| 61    | Masculine     |
-| 62    | Mighty        |
-| 63    | Miserable     |
-| 64    | Multiple      |
-| 65    | Mundane       |
-| 66    | Mysterious    |
-| 67    | Natural       |
-| 68    | Odd           |
-| 69    | Official      |
-| 70    | Old           |
-| 71    | Passive       |
-| 72    | Peaceful      |
-| 73    | Playful       |
-| 74    | Powerful      |
-| 75    | Professional  |
-| 76    | Protected     |
-| 77    | Protecting    |
-| 78    | Questioning   |
-| 79    | Quiet         |
-| 80    | Reassuring    |
-| 81    | Resourceful   |
-| 82    | Seeking       |
-| 83    | Skilled       |
-| 84    | Slow          |
-| 85    | Small         |
-| 86    | Stealthy      |
-| 87    | Strange       |
-| 88    | Strong        |
-| 89    | Tall          |
-| 90    | Thieving      |
-| 91    | Threatening   |
-| 92    | Triumphant    |
-| 93    | Unexpected    |
-| 94    | Unnatural     |
-| 95    | Unusual       |
-| 96    | Violent       |
-| 97    | Vocal         |
-| 98    | Weak          |
-| 99    | Wild          |
-| 100   | Young         |
+| Result        |
+| ------------- |
+| Accompanied   |
+| Active        |
+| Aggressive    |
+| Ambush        |
+| Animal        |
+| Anxious       |
+| Armed         |
+| Beautiful     |
+| Bold          |
+| Busy          |
+| Calm          |
+| Careless      |
+| Casual        |
+| Cautious      |
+| Classy        |
+| Colorful      |
+| Combative     |
+| Crazy         |
+| Creepy        |
+| Curious       |
+| Dangerous     |
+| Deceitful     |
+| Defeated      |
+| Defiant       |
+| Delightful    |
+| Emotional     |
+| Energetic     |
+| Equipped      |
+| Excited       |
+| Expected      |
+| Familiar      |
+| Fast          |
+| Feeble        |
+| Feminine      |
+| Ferocious     |
+| Foe           |
+| Foolish       |
+| Fortunate     |
+| Fragrant      |
+| Frantic       |
+| Friend        |
+| Frightened    |
+| Frightening   |
+| Generous      |
+| Glad          |
+| Happy         |
+| Harmful       |
+| Helpful       |
+| Helpless      |
+| Hurt          |
+| Important     |
+| Inactive      |
+| Influential   |
+| Innocent      |
+| Intense       |
+| Knowledgeable |
+| Large         |
+| Lonely        |
+| Loud          |
+| Loyal         |
+| Masculine     |
+| Mighty        |
+| Miserable     |
+| Multiple      |
+| Mundane       |
+| Mysterious    |
+| Natural       |
+| Odd           |
+| Official      |
+| Old           |
+| Passive       |
+| Peaceful      |
+| Playful       |
+| Powerful      |
+| Professional  |
+| Protected     |
+| Protecting    |
+| Questioning   |
+| Quiet         |
+| Reassuring    |
+| Resourceful   |
+| Seeking       |
+| Skilled       |
+| Slow          |
+| Small         |
+| Stealthy      |
+| Strange       |
+| Strong        |
+| Tall          |
+| Thieving      |
+| Threatening   |
+| Triumphant    |
+| Unexpected    |
+| Unnatural     |
+| Unusual       |
+| Violent       |
+| Vocal         |
+| Weak          |
+| Wild          |
+| Young         |
 ^Mythic2Characters

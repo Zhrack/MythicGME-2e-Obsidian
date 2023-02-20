@@ -1,108 +1,104 @@
-### Spell Effects: `dice: [[Spell Effects#^Mythic2SpellEffects]]`
-### Spell Effects: `dice: [[Spell Effects#^Mythic2SpellEffects]]`
-
-## 
 ## Spell Effects
-| 1d100 | Result       |
-| ----- | ------------ |
-| 1     | Animal       |
-| 2     | Animate      |
-| 3     | Assist       |
-| 4     | Attack       |
-| 5     | Attract      |
-| 6     | Bestow       |
-| 7     | Bizarre      |
-| 8     | Block        |
-| 9     | Break        |
-| 10    | Bright       |
-| 11    | Burn         |
-| 12    | Change       |
-| 13    | Cloud        |
-| 14    | Cold         |
-| 15    | Communicate  |
-| 16    | Conceal      |
-| 17    | Conjure      |
-| 18    | Control      |
-| 19    | Counteract   |
-| 20    | Create       |
-| 21    | Creature     |
-| 22    | Curse        |
-| 23    | Damage       |
-| 24    | Dark         |
-| 25    | Death        |
-| 26    | Deceive      |
-| 27    | Decrease     |
-| 28    | Defense      |
-| 29    | Destroy      |
-| 30    | Detect       |
-| 31    | Diminish     |
-| 32    | Disease      |
-| 33    | Dominate     |
-| 34    | Duplicate    |
-| 35    | Earth        |
-| 36    | Elements     |
-| 37    | Emotion      |
-| 38    | Enemies      |
-| 39    | Energy       |
-| 40    | Enhance      |
-| 41    | Environment  |
-| 42    | Expose       |
-| 43    | Fire         |
-| 44    | Fix          |
-| 45    | Food         |
-| 46    | Free         |
-| 47    | Group        |
-| 48    | Guide        |
-| 49    | Hamper       |
-| 50    | Harm         |
-| 51    | Heal         |
-| 52    | Helpful      |
-| 53    | Ice          |
-| 54    | Illusion     |
-| 55    | Imbue        |
-| 56    | Immunity     |
-| 57    | Imprison     |
-| 58    | Information  |
-| 59    | Inspect      |
-| 60    | Life         |
-| 61    | Light        |
-| 62    | Limitation   |
-| 63    | Liquid       |
-| 64    | Loud         |
-| 65    | Manipulation |
-| 66    | Mind         |
-| 67    | Nature       |
-| 68    | Object       |
-| 69    | Others       |
-| 70    | Pain         |
-| 71    | Physical     |
-| 72    | Plant        |
-| 73    | Poison       |
-| 74    | Portal       |
-| 75    | Powerful     |
-| 76    | Protect      |
-| 77    | Radius       |
-| 78    | Ranged       |
-| 79    | Resistance   |
-| 80    | Restore      |
-| 81    | Self         |
-| 82    | Senses       |
-| 83    | Shield       |
-| 84    | Soul         |
-| 85    | Strange      |
-| 86    | Strength     |
-| 87    | Stun         |
-| 88    | Summon       |
-| 89    | Time         |
-| 90    | Transform    |
-| 91    | Trap         |
-| 92    | Travel       |
-| 93    | Trigger      |
-| 94    | Uncertain    |
-| 95    | Undead       |
-| 96    | Wall         |
-| 97    | Water        |
-| 98    | Weak         |
-| 99    | Weapon       |
-| 100   | Weather      |
+| Result       |
+| ------------ |
+| Animal       |
+| Animate      |
+| Assist       |
+| Attack       |
+| Attract      |
+| Bestow       |
+| Bizarre      |
+| Block        |
+| Break        |
+| Bright       |
+| Burn         |
+| Change       |
+| Cloud        |
+| Cold         |
+| Communicate  |
+| Conceal      |
+| Conjure      |
+| Control      |
+| Counteract   |
+| Create       |
+| Creature     |
+| Curse        |
+| Damage       |
+| Dark         |
+| Death        |
+| Deceive      |
+| Decrease     |
+| Defense      |
+| Destroy      |
+| Detect       |
+| Diminish     |
+| Disease      |
+| Dominate     |
+| Duplicate    |
+| Earth        |
+| Elements     |
+| Emotion      |
+| Enemies      |
+| Energy       |
+| Enhance      |
+| Environment  |
+| Expose       |
+| Fire         |
+| Fix          |
+| Food         |
+| Free         |
+| Group        |
+| Guide        |
+| Hamper       |
+| Harm         |
+| Heal         |
+| Helpful      |
+| Ice          |
+| Illusion     |
+| Imbue        |
+| Immunity     |
+| Imprison     |
+| Information  |
+| Inspect      |
+| Life         |
+| Light        |
+| Limitation   |
+| Liquid       |
+| Loud         |
+| Manipulation |
+| Mind         |
+| Nature       |
+| Object       |
+| Others       |
+| Pain         |
+| Physical     |
+| Plant        |
+| Poison       |
+| Portal       |
+| Powerful     |
+| Protect      |
+| Radius       |
+| Ranged       |
+| Resistance   |
+| Restore      |
+| Self         |
+| Senses       |
+| Shield       |
+| Soul         |
+| Strange      |
+| Strength     |
+| Stun         |
+| Summon       |
+| Time         |
+| Transform    |
+| Trap         |
+| Travel       |
+| Trigger      |
+| Uncertain    |
+| Undead       |
+| Wall         |
+| Water        |
+| Weak         |
+| Weapon       |
+| Weather      |
 ^Mythic2SpellEffects

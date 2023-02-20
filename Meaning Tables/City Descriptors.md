@@ -1,107 +1,104 @@
-### City Descriptors: `dice: [[City Descriptors#^Mythic2CityDescriptors]]`
-### City Descriptors: `dice: [[City Descriptors#^Mythic2CityDescriptors]]`
-
 ## City Descriptors
-| 1d100 | Result      |
-| ----- | ----------- |
-| 1     | Activity    |
-| 2     | Aggressive  |
-| 3     | Aromatic    |
-| 4     | Average     |
-| 5     | Beautiful   |
-| 6     | Bleak       |
-| 7     | Block       |
-| 8     | Bridge      |
-| 9     | Bustling    |
-| 10    | Calm        |
-| 11    | Chaotic     |
-| 12    | Clean       |
-| 13    | Cold        |
-| 14    | Colorful    |
-| 15    | Commerce    |
-| 16    | Conflict    |
-| 17    | Control     |
-| 18    | Crime       |
-| 19    | Dangerous   |
-| 20    | Dense       |
-| 21    | Developed   |
-| 22    | Dirty       |
-| 23    | Efficient   |
-| 24    | Energy      |
-| 25    | Enormous    |
-| 26    | Environment |
-| 27    | Extravagant |
-| 28    | Festive     |
-| 29    | Flawless    |
-| 30    | Frightening |
-| 31    | Government  |
-| 32    | Happy       |
-| 33    | Harsh       |
-| 34    | Healthy     |
-| 35    | Helpful     |
-| 36    | Hills       |
-| 37    | History     |
-| 38    | Illness     |
-| 39    | Important   |
-| 40    | Impressive  |
-| 41    | Industry    |
-| 42    | Interesting |
-| 43    | Intrigues   |
-| 44    | Isolated    |
-| 45    | Lacking     |
-| 46    | Lake        |
-| 47    | Large       |
-| 48    | Lavish      |
-| 49    | Leadership  |
-| 50    | Liberty     |
-| 51    | Loud        |
-| 52    | Magnificent |
-| 53    | Masses      |
-| 54    | Meaningful  |
-| 55    | Mechanical  |
-| 56    | Messy       |
-| 57    | Mighty      |
-| 58    | Military    |
-| 59    | Miserable   |
-| 60    | Misfortune  |
-| 61    | Modern      |
-| 62    | Mountain    |
-| 63    | Mundane     |
-| 64    | Mysterious  |
-| 65    | Nature      |
-| 66    | Odd         |
-| 67    | Old         |
-| 68    | Oppress     |
-| 69    | Opulence    |
-| 70    | Peace       |
-| 71    | Poor        |
-| 72    | Powerful    |
-| 73    | Protected   |
-| 74    | Public      |
-| 75    | Quiet       |
-| 76    | Rare        |
-| 77    | Reassuring  |
-| 78    | Remarkable  |
-| 79    | River       |
-| 80    | Rough       |
-| 81    | Ruined      |
-| 82    | Rustic      |
-| 83    | Simple      |
-| 84    | Small       |
-| 85    | Sparse      |
-| 86    | Structures  |
-| 87    | Struggle    |
-| 88    | Success     |
-| 89    | Suffering   |
-| 90    | Technology  |
-| 91    | Tension     |
-| 92    | Travel      |
-| 93    | Troubled    |
-| 94    | Valuable    |
-| 95    | Warm        |
-| 96    | Water       |
-| 97    | Weak        |
-| 98    | Weather     |
-| 99    | Wild        |
-| 100   | Work        |
+| Result      |
+| ----------- |
+| Activity    |
+| Aggressive  |
+| Aromatic    |
+| Average     |
+| Beautiful   |
+| Bleak       |
+| Block       |
+| Bridge      |
+| Bustling    |
+| Calm        |
+| Chaotic     |
+| Clean       |
+| Cold        |
+| Colorful    |
+| Commerce    |
+| Conflict    |
+| Control     |
+| Crime       |
+| Dangerous   |
+| Dense       |
+| Developed   |
+| Dirty       |
+| Efficient   |
+| Energy      |
+| Enormous    |
+| Environment |
+| Extravagant |
+| Festive     |
+| Flawless    |
+| Frightening |
+| Government  |
+| Happy       |
+| Harsh       |
+| Healthy     |
+| Helpful     |
+| Hills       |
+| History     |
+| Illness     |
+| Important   |
+| Impressive  |
+| Industry    |
+| Interesting |
+| Intrigues   |
+| Isolated    |
+| Lacking     |
+| Lake        |
+| Large       |
+| Lavish      |
+| Leadership  |
+| Liberty     |
+| Loud        |
+| Magnificent |
+| Masses      |
+| Meaningful  |
+| Mechanical  |
+| Messy       |
+| Mighty      |
+| Military    |
+| Miserable   |
+| Misfortune  |
+| Modern      |
+| Mountain    |
+| Mundane     |
+| Mysterious  |
+| Nature      |
+| Odd         |
+| Old         |
+| Oppress     |
+| Opulence    |
+| Peace       |
+| Poor        |
+| Powerful    |
+| Protected   |
+| Public      |
+| Quiet       |
+| Rare        |
+| Reassuring  |
+| Remarkable  |
+| River       |
+| Rough       |
+| Ruined      |
+| Rustic      |
+| Simple      |
+| Small       |
+| Sparse      |
+| Structures  |
+| Struggle    |
+| Success     |
+| Suffering   |
+| Technology  |
+| Tension     |
+| Travel      |
+| Troubled    |
+| Valuable    |
+| Warm        |
+| Water       |
+| Weak        |
+| Weather     |
+| Wild        |
+| Work        |
 ^Mythic2CityDescriptors

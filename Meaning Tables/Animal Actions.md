@@ -1,107 +1,104 @@
-### Animal Actions: `dice: [[Animal Actions#^Mythic2AnimalActions]]`
-### Animal Actions: `dice: [[Animal Actions#^Mythic2AnimalActions]]`
-
 ## Animal Actions
-| 1d100 | Result        |
-| ----- | ------------- |
-| 1     | Abandon       |
-| 2     | Abnormal      |
-| 3     | Aggressive    |
-| 4     | Angry         |
-| 5     | Anxious       |
-| 6     | Assist        |
-| 7     | Attack        |
-| 8     | Befriend      |
-| 9     | Bestow        |
-| 10    | Bizarre       |
-| 11    | Bold          |
-| 12    | Break         |
-| 13    | Busy          |
-| 14    | Calm          |
-| 15    | Careful       |
-| 16    | Careless      |
-| 17    | Cautious      |
-| 18    | Ceaseless     |
-| 19    | Change        |
-| 20    | Combative     |
-| 21    | Curious       |
-| 22    | Dangerous     |
-| 23    | Deliberate    |
-| 24    | Disinterested |
-| 25    | Disrupt       |
-| 26    | Distracted    |
-| 27    | Dominate      |
-| 28    | Energetic     |
-| 29    | Excited       |
-| 30    | Exotic        |
-| 31    | Familiar      |
-| 32    | Fearful       |
-| 33    | Feeble        |
-| 34    | Ferocious     |
-| 35    | Fierce        |
-| 36    | Fight         |
-| 37    | Flee          |
-| 38    | Follow        |
-| 39    | Food          |
-| 40    | Frantic       |
-| 41    | Friendship    |
-| 42    | Frightening   |
-| 43    | Generous      |
-| 44    | Gentle        |
-| 45    | Graceful      |
-| 46    | Harm          |
-| 47    | Hasty         |
-| 48    | Helpful       |
-| 49    | Helpless      |
-| 50    | Hungry        |
-| 51    | Hunt          |
-| 52    | Ignore        |
-| 53    | Imitate       |
-| 54    | Implore       |
-| 55    | Imprison      |
-| 56    | Inspect       |
-| 57    | Intense       |
-| 58    | Irritating    |
-| 59    | Juvenile      |
-| 60    | Lazy          |
-| 61    | Leave         |
-| 62    | Lethal        |
-| 63    | Loud          |
-| 64    | Loyal         |
-| 65    | Messy         |
-| 66    | Mistrust      |
-| 67    | Move          |
-| 68    | Mundane       |
-| 69    | Mysterious    |
-| 70    | Natural       |
-| 71    | Neglect       |
-| 72    | Normal        |
-| 73    | Observe       |
-| 74    | Odd           |
-| 75    | Oppose        |
-| 76    | Playful       |
-| 77    | Protect       |
-| 78    | Pursue        |
-| 79    | Quiet         |
-| 80    | Reassuring    |
-| 81    | Release       |
-| 82    | Return        |
-| 83    | Scary         |
-| 84    | Simple        |
-| 85    | Slow          |
-| 86    | Strange       |
-| 87    | Struggle      |
-| 88    | Swift         |
-| 89    | Tactics       |
-| 90    | Take          |
-| 91    | Threatening   |
-| 92    | Tranquil      |
-| 93    | Transform     |
-| 94    | Trick         |
-| 95    | Trust         |
-| 96    | Violent       |
-| 97    | Warn          |
-| 98    | Waste         |
-| 99    | Wild          |
-| 100   | Yield         |
+| Result        |
+| ------------- |
+| Abandon       |
+| Abnormal      |
+| Aggressive    |
+| Angry         |
+| Anxious       |
+| Assist        |
+| Attack        |
+| Befriend      |
+| Bestow        |
+| Bizarre       |
+| Bold          |
+| Break         |
+| Busy          |
+| Calm          |
+| Careful       |
+| Careless      |
+| Cautious      |
+| Ceaseless     |
+| Change        |
+| Combative     |
+| Curious       |
+| Dangerous     |
+| Deliberate    |
+| Disinterested |
+| Disrupt       |
+| Distracted    |
+| Dominate      |
+| Energetic     |
+| Excited       |
+| Exotic        |
+| Familiar      |
+| Fearful       |
+| Feeble        |
+| Ferocious     |
+| Fierce        |
+| Fight         |
+| Flee          |
+| Follow        |
+| Food          |
+| Frantic       |
+| Friendship    |
+| Frightening   |
+| Generous      |
+| Gentle        |
+| Graceful      |
+| Harm          |
+| Hasty         |
+| Helpful       |
+| Helpless      |
+| Hungry        |
+| Hunt          |
+| Ignore        |
+| Imitate       |
+| Implore       |
+| Imprison      |
+| Inspect       |
+| Intense       |
+| Irritating    |
+| Juvenile      |
+| Lazy          |
+| Leave         |
+| Lethal        |
+| Loud          |
+| Loyal         |
+| Messy         |
+| Mistrust      |
+| Move          |
+| Mundane       |
+| Mysterious    |
+| Natural       |
+| Neglect       |
+| Normal        |
+| Observe       |
+| Odd           |
+| Oppose        |
+| Playful       |
+| Protect       |
+| Pursue        |
+| Quiet         |
+| Reassuring    |
+| Release       |
+| Return        |
+| Scary         |
+| Simple        |
+| Slow          |
+| Strange       |
+| Struggle      |
+| Swift         |
+| Tactics       |
+| Take          |
+| Threatening   |
+| Tranquil      |
+| Transform     |
+| Trick         |
+| Trust         |
+| Violent       |
+| Warn          |
+| Waste         |
+| Wild          |
+| Yield         |
 ^Mythic2AnimalActions

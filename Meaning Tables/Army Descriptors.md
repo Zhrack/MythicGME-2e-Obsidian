@@ -1,107 +1,104 @@
-### Army Descriptors: `dice: [[Army Descriptors#^Mythic2ArmyDescriptors]]`
-### Army Descriptors: `dice: [[Army Descriptors#^Mythic2ArmyDescriptors]]`
-
 ## Army Descriptors
-| 1d100 | Result       |
-| ----- | ------------ |
-| 1     | Active       |
-| 2     | Aggressive   |
-| 3     | Allies       |
-| 4     | Ambush       |
-| 5     | Animals      |
-| 6     | Arrive       |
-| 7     | Assist       |
-| 8     | Average      |
-| 9     | Betray       |
-| 10    | Bizarre      |
-| 11    | Block        |
-| 12    | Bold         |
-| 13    | Calm         |
-| 14    | Careless     |
-| 15    | Cautious     |
-| 16    | Ceaseless    |
-| 17    | Celebrate    |
-| 18    | Colorful     |
-| 19    | Communicate  |
-| 20    | Creepy       |
-| 21    | Deceive      |
-| 22    | Defensive    |
-| 23    | Defiant      |
-| 24    | Delay        |
-| 25    | Disorganized |
-| 26    | Divide       |
-| 27    | Efficient    |
-| 28    | Enemies      |
-| 29    | Energy       |
-| 30    | Failure      |
-| 31    | Ferocious    |
-| 32    | Fight        |
-| 33    | Food         |
-| 34    | Foolish      |
-| 35    | Fortunate    |
-| 36    | Frantic      |
-| 37    | Fresh        |
-| 38    | Frightening  |
-| 39    | Helpful      |
-| 40    | Helpless     |
-| 41    | Illness      |
-| 42    | Lacking      |
-| 43    | Large        |
-| 44    | Lavish       |
-| 45    | Lazy         |
-| 46    | Leadership   |
-| 47    | Lethal       |
-| 48    | Loud         |
-| 49    | Loyal        |
-| 50    | Mighty       |
-| 51    | Mysterious   |
-| 52    | Normal       |
-| 53    | Path         |
-| 54    | Persecute    |
-| 55    | Power        |
-| 56    | Problems     |
-| 57    | Punish       |
-| 58    | Pursue       |
-| 59    | Quiet        |
-| 60    | Ready        |
-| 61    | Reassuring   |
-| 62    | Recruit      |
-| 63    | Release      |
-| 64    | Riches       |
-| 65    | Rough        |
-| 66    | Ruin         |
-| 67    | Ruthless     |
-| 68    | Simple       |
-| 69    | Skilled      |
-| 70    | Slow         |
-| 71    | Small        |
-| 72    | Stalemate    |
-| 73    | Start        |
-| 74    | Stop         |
-| 75    | Strange      |
-| 76    | Strong       |
-| 77    | Struggle     |
-| 78    | Success      |
-| 79    | Suffering    |
-| 80    | Supplies     |
-| 81    | Swift        |
-| 82    | Tactics      |
-| 83    | Take         |
-| 84    | Technology   |
-| 85    | Tension      |
-| 86    | Testing      |
-| 87    | Threatening  |
-| 88    | Tired        |
-| 89    | Travel       |
-| 90    | Triumph      |
-| 91    | Truce        |
-| 92    | Trust        |
-| 93    | Unequipped   |
-| 94    | Unexpected   |
-| 95    | Untrained    |
-| 96    | Victory      |
-| 97    | Violate      |
-| 98    | Waste        |
-| 99    | Weak         |
-| 100   | Weapons      |
+| Result       |
+| ------------ |
+| Active       |
+| Aggressive   |
+| Allies       |
+| Ambush       |
+| Animals      |
+| Arrive       |
+| Assist       |
+| Average      |
+| Betray       |
+| Bizarre      |
+| Block        |
+| Bold         |
+| Calm         |
+| Careless     |
+| Cautious     |
+| Ceaseless    |
+| Celebrate    |
+| Colorful     |
+| Communicate  |
+| Creepy       |
+| Deceive      |
+| Defensive    |
+| Defiant      |
+| Delay        |
+| Disorganized |
+| Divide       |
+| Efficient    |
+| Enemies      |
+| Energy       |
+| Failure      |
+| Ferocious    |
+| Fight        |
+| Food         |
+| Foolish      |
+| Fortunate    |
+| Frantic      |
+| Fresh        |
+| Frightening  |
+| Helpful      |
+| Helpless     |
+| Illness      |
+| Lacking      |
+| Large        |
+| Lavish       |
+| Lazy         |
+| Leadership   |
+| Lethal       |
+| Loud         |
+| Loyal        |
+| Mighty       |
+| Mysterious   |
+| Normal       |
+| Path         |
+| Persecute    |
+| Power        |
+| Problems     |
+| Punish       |
+| Pursue       |
+| Quiet        |
+| Ready        |
+| Reassuring   |
+| Recruit      |
+| Release      |
+| Riches       |
+| Rough        |
+| Ruin         |
+| Ruthless     |
+| Simple       |
+| Skilled      |
+| Slow         |
+| Small        |
+| Stalemate    |
+| Start        |
+| Stop         |
+| Strange      |
+| Strong       |
+| Struggle     |
+| Success      |
+| Suffering    |
+| Supplies     |
+| Swift        |
+| Tactics      |
+| Take         |
+| Technology   |
+| Tension      |
+| Testing      |
+| Threatening  |
+| Tired        |
+| Travel       |
+| Triumph      |
+| Truce        |
+| Trust        |
+| Unequipped   |
+| Unexpected   |
+| Untrained    |
+| Victory      |
+| Violate      |
+| Waste        |
+| Weak         |
+| Weapons      |
 ^Mythic2ArmyDescriptors

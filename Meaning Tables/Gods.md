@@ -1,107 +1,104 @@
-### Gods: `dice: [[Gods#^Mythic2Gods]]`
-### Gods: `dice: [[Gods#^Mythic2Gods]]`
-
 ## Gods
-| 1d100 | Result      |
-| ----- | ----------- |
-| 1     | Active      |
-| 2     | Alien       |
-| 3     | Ancient     |
-| 4     | Angelic     |
-| 5     | Angry       |
-| 6     | Animal      |
-| 7     | Art         |
-| 8     | Assist      |
-| 9     | Attract     |
-| 10    | Beautiful   |
-| 11    | Bestow      |
-| 12    | Betray      |
-| 13    | Bizarre     |
-| 14    | Capricious  |
-| 15    | Colorful    |
-| 16    | Combat      |
-| 17    | Communicate |
-| 18    | Conflict    |
-| 19    | Control     |
-| 20    | Corruption  |
-| 21    | Cosmic      |
-| 22    | Create      |
-| 23    | Creepy      |
-| 24    | Cruel       |
-| 25    | Cult        |
-| 26    | Dangerous   |
-| 27    | Dark        |
-| 28    | Death       |
-| 29    | Deceit      |
-| 30    | Destroyer   |
-| 31    | Disgusting  |
-| 32    | Dominate    |
-| 33    | Dreams      |
-| 34    | Elements    |
-| 35    | Emotions    |
-| 36    | Enemies     |
-| 37    | Energy      |
-| 38    | Enormous    |
-| 39    | Evil        |
-| 40    | Feminine    |
-| 41    | Fallen      |
-| 42    | Fear        |
-| 43    | Fertility   |
-| 44    | Festive     |
-| 45    | Fire        |
-| 46    | Frightening |
-| 47    | Generous    |
-| 48    | Gentle      |
-| 49    | Gifts       |
-| 50    | Glorious    |
-| 51    | Good        |
-| 52    | Guide       |
-| 53    | Harm        |
-| 54    | Harsh       |
-| 55    | Heal        |
-| 56    | Humanoid    |
-| 57    | Illness     |
-| 58    | Imprison    |
-| 59    | Increase    |
-| 60    | Jealous     |
-| 61    | Justice     |
-| 62    | Knowledge   |
-| 63    | Liberty     |
-| 64    | Life        |
-| 65    | Light       |
-| 66    | Love        |
-| 67    | Magic       |
-| 68    | Majestic    |
-| 69    | Major       |
-| 70    | Malice      |
-| 71    | Masculine   |
-| 72    | Mighty      |
-| 73    | Military    |
-| 74    | Minor       |
-| 75    | Monstrous   |
-| 76    | Mundane     |
-| 77    | Mysterious  |
-| 78    | Nature      |
-| 79    | Night       |
-| 80    | Oppress     |
-| 81    | Pleasures   |
-| 82    | Power       |
-| 83    | Protector   |
-| 84    | Punish      |
-| 85    | Ruler       |
-| 86    | Sacrifice   |
-| 87    | Strange     |
-| 88    | Strong      |
-| 89    | Suppress    |
-| 90    | Threatening |
-| 91    | Transform   |
-| 92    | Underworld  |
-| 93    | Violent     |
-| 94    | War         |
-| 95    | Warm        |
-| 96    | Water       |
-| 97    | Weak        |
-| 98    | Weapon      |
-| 99    | Weather     |
-| 100   | Worshiped   |
+| Result      |
+| ----------- |
+| Active      |
+| Alien       |
+| Ancient     |
+| Angelic     |
+| Angry       |
+| Animal      |
+| Art         |
+| Assist      |
+| Attract     |
+| Beautiful   |
+| Bestow      |
+| Betray      |
+| Bizarre     |
+| Capricious  |
+| Colorful    |
+| Combat      |
+| Communicate |
+| Conflict    |
+| Control     |
+| Corruption  |
+| Cosmic      |
+| Create      |
+| Creepy      |
+| Cruel       |
+| Cult        |
+| Dangerous   |
+| Dark        |
+| Death       |
+| Deceit      |
+| Destroyer   |
+| Disgusting  |
+| Dominate    |
+| Dreams      |
+| Elements    |
+| Emotions    |
+| Enemies     |
+| Energy      |
+| Enormous    |
+| Evil        |
+| Feminine    |
+| Fallen      |
+| Fear        |
+| Fertility   |
+| Festive     |
+| Fire        |
+| Frightening |
+| Generous    |
+| Gentle      |
+| Gifts       |
+| Glorious    |
+| Good        |
+| Guide       |
+| Harm        |
+| Harsh       |
+| Heal        |
+| Humanoid    |
+| Illness     |
+| Imprison    |
+| Increase    |
+| Jealous     |
+| Justice     |
+| Knowledge   |
+| Liberty     |
+| Life        |
+| Light       |
+| Love        |
+| Magic       |
+| Majestic    |
+| Major       |
+| Malice      |
+| Masculine   |
+| Mighty      |
+| Military    |
+| Minor       |
+| Monstrous   |
+| Mundane     |
+| Mysterious  |
+| Nature      |
+| Night       |
+| Oppress     |
+| Pleasures   |
+| Power       |
+| Protector   |
+| Punish      |
+| Ruler       |
+| Sacrifice   |
+| Strange     |
+| Strong      |
+| Suppress    |
+| Threatening |
+| Transform   |
+| Underworld  |
+| Violent     |
+| War         |
+| Warm        |
+| Water       |
+| Weak        |
+| Weapon      |
+| Weather     |
+| Worshiped   |
 ^Mythic2Gods

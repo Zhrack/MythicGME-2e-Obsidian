@@ -1,107 +1,104 @@
-### Noble House: `dice: [[Noble House#^Mythic2NobleHouse]]`
-### Noble House: `dice: [[Noble House#^Mythic2NobleHouse]]`
-
 ## Noble House
-| 1d100 | Result       |
-| ----- | ------------ |
-| 1     | Aggressive   |
-| 2     | Allies       |
-| 3     | Anger        |
-| 4     | Bestow       |
-| 5     | Betray       |
-| 6     | Bizarre      |
-| 7     | Block        |
-| 8     | Break        |
-| 9     | Bureaucracy  |
-| 10    | Cautious     |
-| 11    | Change       |
-| 12    | Commerce     |
-| 13    | Compromise   |
-| 14    | Conflict     |
-| 15    | Connections  |
-| 16    | Control      |
-| 17    | Create       |
-| 18    | Crisis       |
-| 19    | Cruel        |
-| 20    | Dangerous    |
-| 21    | Death        |
-| 22    | Deceit       |
-| 23    | Defeat       |
-| 24    | Defiant      |
-| 25    | Disrupt      |
-| 26    | Enemies      |
-| 27    | Extravagant  |
-| 28    | Faded        |
-| 29    | Fame         |
-| 30    | Family       |
-| 31    | Headquarters |
-| 32    | Heirloom     |
-| 33    | Hero         |
-| 34    | History      |
-| 35    | Home         |
-| 36    | Important    |
-| 37    | Imprison     |
-| 38    | Increase     |
-| 39    | Information  |
-| 40    | Intrigue     |
-| 41    | Investment   |
-| 42    | Land         |
-| 43    | Large        |
-| 44    | Leadership   |
-| 45    | Legal        |
-| 46    | Leverage     |
-| 47    | Liberty      |
-| 48    | Love         |
-| 49    | Loyal        |
-| 50    | Magnificent  |
-| 51    | Malice       |
-| 52    | Mighty       |
-| 53    | Military     |
-| 54    | Misfortune   |
-| 55    | Move         |
-| 56    | Mysterious   |
-| 57    | Neglect      |
-| 58    | Old          |
-| 59    | Oppose       |
-| 60    | Oppress      |
-| 61    | Overthrow    |
-| 62    | Passion      |
-| 63    | Peace        |
-| 64    | Persecute    |
-| 65    | Plans        |
-| 66    | Politics     |
-| 67    | Possessions  |
-| 68    | Powerful     |
-| 69    | Public       |
-| 70    | Refuse       |
-| 71    | Release      |
-| 72    | Remarkable   |
-| 73    | Return       |
-| 74    | Riches       |
-| 75    | Royalty      |
-| 76    | Ruthless     |
-| 77    | Secret       |
-| 78    | Security     |
-| 79    | Servant      |
-| 80    | Spy          |
-| 81    | Strange      |
-| 82    | Strong       |
-| 83    | Struggle     |
-| 84    | Succession   |
-| 85    | Suffering    |
-| 86    | Suppress     |
-| 87    | Tactics      |
-| 88    | Tension      |
-| 89    | Travel       |
-| 90    | Trust        |
-| 91    | Usurp        |
-| 92    | Valuable     |
-| 93    | Vengeance    |
-| 94    | Victory      |
-| 95    | Violence     |
-| 96    | War          |
-| 97    | Weak         |
-| 98    | Wealth       |
-| 99    | Weapon       |
-| 100   | Young        |
+| Result       |
+| ------------ |
+| Aggressive   |
+| Allies       |
+| Anger        |
+| Bestow       |
+| Betray       |
+| Bizarre      |
+| Block        |
+| Break        |
+| Bureaucracy  |
+| Cautious     |
+| Change       |
+| Commerce     |
+| Compromise   |
+| Conflict     |
+| Connections  |
+| Control      |
+| Create       |
+| Crisis       |
+| Cruel        |
+| Dangerous    |
+| Death        |
+| Deceit       |
+| Defeat       |
+| Defiant      |
+| Disrupt      |
+| Enemies      |
+| Extravagant  |
+| Faded        |
+| Fame         |
+| Family       |
+| Headquarters |
+| Heirloom     |
+| Hero         |
+| History      |
+| Home         |
+| Important    |
+| Imprison     |
+| Increase     |
+| Information  |
+| Intrigue     |
+| Investment   |
+| Land         |
+| Large        |
+| Leadership   |
+| Legal        |
+| Leverage     |
+| Liberty      |
+| Love         |
+| Loyal        |
+| Magnificent  |
+| Malice       |
+| Mighty       |
+| Military     |
+| Misfortune   |
+| Move         |
+| Mysterious   |
+| Neglect      |
+| Old          |
+| Oppose       |
+| Oppress      |
+| Overthrow    |
+| Passion      |
+| Peace        |
+| Persecute    |
+| Plans        |
+| Politics     |
+| Possessions  |
+| Powerful     |
+| Public       |
+| Refuse       |
+| Release      |
+| Remarkable   |
+| Return       |
+| Riches       |
+| Royalty      |
+| Ruthless     |
+| Secret       |
+| Security     |
+| Servant      |
+| Spy          |
+| Strange      |
+| Strong       |
+| Struggle     |
+| Succession   |
+| Suffering    |
+| Suppress     |
+| Tactics      |
+| Tension      |
+| Travel       |
+| Trust        |
+| Usurp        |
+| Valuable     |
+| Vengeance    |
+| Victory      |
+| Violence     |
+| War          |
+| Weak         |
+| Wealth       |
+| Weapon       |
+| Young        |
 ^Mythic2NobleHouse

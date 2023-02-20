@@ -1,107 +1,104 @@
-### Legends: `dice: [[Legends#^Mythic2Legends]]`
-### Legends: `dice: [[Legends#^Mythic2Legends]]`
-
 ## Legends
-| 1d100 | Result       |
-| ----- | ------------ |
-| 1     | Abandon      |
-| 2     | Allies       |
-| 3     | Anger        |
-| 4     | Assist       |
-| 5     | Attainment   |
-| 6     | Befriend     |
-| 7     | Bestow       |
-| 8     | Betray       |
-| 9     | Bizarre      |
-| 10    | Block        |
-| 11    | Brave        |
-| 12    | Break        |
-| 13    | Burden       |
-| 14    | Carelessness |
-| 15    | Cataclysm    |
-| 16    | Caution      |
-| 17    | Change       |
-| 18    | Conflict     |
-| 19    | Control      |
-| 20    | Create       |
-| 21    | Crisis       |
-| 22    | Damage       |
-| 23    | Danger       |
-| 24    | Deceive      |
-| 25    | Decrease     |
-| 26    | Defeated     |
-| 27    | Defiant      |
-| 28    | Delay        |
-| 29    | Disrupt      |
-| 30    | Divide       |
-| 31    | Elements     |
-| 32    | End          |
-| 33    | Enemies      |
-| 34    | Energy       |
-| 35    | Evil         |
-| 36    | Expose       |
-| 37    | Failure      |
-| 38    | Fame         |
-| 39    | Fear         |
-| 40    | Fight        |
-| 41    | Find         |
-| 42    | Free         |
-| 43    | Friendship   |
-| 44    | Frightening  |
-| 45    | Good         |
-| 46    | Guide        |
-| 47    | Harm         |
-| 48    | Heal         |
-| 49    | Help         |
-| 50    | Helpless     |
-| 51    | Hero         |
-| 52    | Hidden       |
-| 53    | Historical   |
-| 54    | Illness      |
-| 55    | Important    |
-| 56    | Imprison     |
-| 57    | Increase     |
-| 58    | Inform       |
-| 59    | Innocent     |
-| 60    | Intrigue     |
-| 61    | Jealousy     |
-| 62    | Judge        |
-| 63    | Leadership   |
-| 64    | Legal        |
-| 65    | Lethal       |
-| 66    | Liberty      |
-| 67    | Loss         |
-| 68    | Love         |
-| 69    | Loyalty      |
-| 70    | Masses       |
-| 71    | Mighty       |
-| 72    | Military     |
-| 73    | Misfortune   |
-| 74    | Monster      |
-| 75    | Move         |
-| 76    | Mundane      |
-| 77    | Mysterious   |
-| 78    | Natural      |
-| 79    | Old          |
-| 80    | Oppose       |
-| 81    | Oppress      |
-| 82    | Peace        |
-| 83    | Plot         |
-| 84    | Possessions  |
-| 85    | Power        |
-| 86    | Punish       |
-| 87    | Pursue       |
-| 88    | Release      |
-| 89    | Return       |
-| 90    | Riches       |
-| 91    | Ruin         |
-| 92    | Savior       |
-| 93    | Stop         |
-| 94    | Strange      |
-| 95    | Struggle     |
-| 96    | Theft        |
-| 97    | Trust        |
-| 98    | Usurp        |
-| 99    | Vengeance    |
-| 100   | Villain      |
+| Result       |
+| ------------ |
+| Abandon      |
+| Allies       |
+| Anger        |
+| Assist       |
+| Attainment   |
+| Befriend     |
+| Bestow       |
+| Betray       |
+| Bizarre      |
+| Block        |
+| Brave        |
+| Break        |
+| Burden       |
+| Carelessness |
+| Cataclysm    |
+| Caution      |
+| Change       |
+| Conflict     |
+| Control      |
+| Create       |
+| Crisis       |
+| Damage       |
+| Danger       |
+| Deceive      |
+| Decrease     |
+| Defeated     |
+| Defiant      |
+| Delay        |
+| Disrupt      |
+| Divide       |
+| Elements     |
+| End          |
+| Enemies      |
+| Energy       |
+| Evil         |
+| Expose       |
+| Failure      |
+| Fame         |
+| Fear         |
+| Fight        |
+| Find         |
+| Free         |
+| Friendship   |
+| Frightening  |
+| Good         |
+| Guide        |
+| Harm         |
+| Heal         |
+| Help         |
+| Helpless     |
+| Hero         |
+| Hidden       |
+| Historical   |
+| Illness      |
+| Important    |
+| Imprison     |
+| Increase     |
+| Inform       |
+| Innocent     |
+| Intrigue     |
+| Jealousy     |
+| Judge        |
+| Leadership   |
+| Legal        |
+| Lethal       |
+| Liberty      |
+| Loss         |
+| Love         |
+| Loyalty      |
+| Masses       |
+| Mighty       |
+| Military     |
+| Misfortune   |
+| Monster      |
+| Move         |
+| Mundane      |
+| Mysterious   |
+| Natural      |
+| Old          |
+| Oppose       |
+| Oppress      |
+| Peace        |
+| Plot         |
+| Possessions  |
+| Power        |
+| Punish       |
+| Pursue       |
+| Release      |
+| Return       |
+| Riches       |
+| Ruin         |
+| Savior       |
+| Stop         |
+| Strange      |
+| Struggle     |
+| Theft        |
+| Trust        |
+| Usurp        |
+| Vengeance    |
+| Villain      |
 ^Mythic2Legends

@@ -1,108 +1,104 @@
-### Objects: `dice: [[Objects#^Mythic2Objects]]`
-### Objects: `dice: [[Objects#^Mythic2Objects]]`
-
-## 
 ## Objects
-| 1d100 | Result        |
-| ----- | ------------- |
-| 1     | Active        |
-| 2     | Artistic      |
-| 3     | Average       |
-| 4     | Beautiful     |
-| 5     | Bizarre       |
-| 6     | Bright        |
-| 7     | Clothing      |
-| 8     | Clue          |
-| 9     | Cold          |
-| 10    | Colorful      |
-| 11    | Communication |
-| 12    | Complicated   |
-| 13    | Confusing     |
-| 14    | Consumable    |
-| 15    | Container     |
-| 16    | Creepy        |
-| 17    | Crude         |
-| 18    | Cute          |
-| 19    | Damaged       |
-| 20    | Dangerous     |
-| 21    | Deactivated   |
-| 22    | Deliberate    |
-| 23    | Delightful    |
-| 24    | Desired       |
-| 25    | Domestic      |
-| 26    | Empty         |
-| 27    | Energy        |
-| 28    | Enormous      |
-| 29    | Equipment     |
-| 30    | Expected      |
-| 31    | Expended      |
-| 32    | Extravagant   |
-| 33    | Faded         |
-| 34    | Familiar      |
-| 35    | Fancy         |
-| 36    | Flora         |
-| 37    | Fortunate     |
-| 38    | Fragile       |
-| 39    | Fragrant      |
-| 40    | Frightening   |
-| 41    | Garbage       |
-| 42    | Guidance      |
-| 43    | Hard          |
-| 44    | Harmful       |
-| 45    | Healing       |
-| 46    | Heavy         |
-| 47    | Helpful       |
-| 48    | Horrible      |
-| 49    | Important     |
-| 50    | Inactive      |
-| 51    | Information   |
-| 52    | Intriguing    |
-| 53    | Large         |
-| 54    | Lethal        |
-| 55    | Light         |
-| 56    | Liquid        |
-| 57    | Loud          |
-| 58    | Majestic      |
-| 59    | Meaningful    |
-| 60    | Mechanical    |
-| 61    | Modern        |
-| 62    | Moving        |
-| 63    | Multiple      |
-| 64    | Mundane       |
-| 65    | Mysterious    |
-| 66    | Natural       |
-| 67    | New           |
-| 68    | Odd           |
-| 69    | Official      |
-| 70    | Old           |
-| 71    | Ornamental    |
-| 72    | Ornate        |
-| 73    | Personal      |
-| 74    | Powerful      |
-| 75    | Prized        |
-| 76    | Protection    |
-| 77    | Rare          |
-| 78    | Ready         |
-| 79    | Reassuring    |
-| 80    | Resource      |
-| 81    | Ruined        |
-| 82    | Small         |
-| 83    | Soft          |
-| 84    | Solitary      |
-| 85    | Stolen        |
-| 86    | Strange       |
-| 87    | Stylish       |
-| 88    | Threatening   |
-| 89    | Tool          |
-| 90    | Travel        |
-| 91    | Unexpected    |
-| 92    | Unpleasant    |
-| 93    | Unusual       |
-| 94    | Useful        |
-| 95    | Useless       |
-| 96    | Valuable      |
-| 97    | Warm          |
-| 98    | Weapon        |
-| 99    | Wet           |
-| 100   | Worn          |
+| Result        |
+| ------------- |
+| Active        |
+| Artistic      |
+| Average       |
+| Beautiful     |
+| Bizarre       |
+| Bright        |
+| Clothing      |
+| Clue          |
+| Cold          |
+| Colorful      |
+| Communication |
+| Complicated   |
+| Confusing     |
+| Consumable    |
+| Container     |
+| Creepy        |
+| Crude         |
+| Cute          |
+| Damaged       |
+| Dangerous     |
+| Deactivated   |
+| Deliberate    |
+| Delightful    |
+| Desired       |
+| Domestic      |
+| Empty         |
+| Energy        |
+| Enormous      |
+| Equipment     |
+| Expected      |
+| Expended      |
+| Extravagant   |
+| Faded         |
+| Familiar      |
+| Fancy         |
+| Flora         |
+| Fortunate     |
+| Fragile       |
+| Fragrant      |
+| Frightening   |
+| Garbage       |
+| Guidance      |
+| Hard          |
+| Harmful       |
+| Healing       |
+| Heavy         |
+| Helpful       |
+| Horrible      |
+| Important     |
+| Inactive      |
+| Information   |
+| Intriguing    |
+| Large         |
+| Lethal        |
+| Light         |
+| Liquid        |
+| Loud          |
+| Majestic      |
+| Meaningful    |
+| Mechanical    |
+| Modern        |
+| Moving        |
+| Multiple      |
+| Mundane       |
+| Mysterious    |
+| Natural       |
+| New           |
+| Odd           |
+| Official      |
+| Old           |
+| Ornamental    |
+| Ornate        |
+| Personal      |
+| Powerful      |
+| Prized        |
+| Protection    |
+| Rare          |
+| Ready         |
+| Reassuring    |
+| Resource      |
+| Ruined        |
+| Small         |
+| Soft          |
+| Solitary      |
+| Stolen        |
+| Strange       |
+| Stylish       |
+| Threatening   |
+| Tool          |
+| Travel        |
+| Unexpected    |
+| Unpleasant    |
+| Unusual       |
+| Useful        |
+| Useless       |
+| Valuable      |
+| Warm          |
+| Weapon        |
+| Wet           |
+| Worn          |
 ^Mythic2Objects

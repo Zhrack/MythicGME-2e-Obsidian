@@ -5,6 +5,8 @@ At the moment only the Meaning Elements Tables are included, it will probably gr
 
 ## Change log
 
+### v3.1
+- Fixed Descriptions second roller rolling on first table instead of second.
 ### v3.0
 - Removed number columns to have cleaner output.
 - Removed dice rollers in single files.

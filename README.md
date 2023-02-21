@@ -5,7 +5,9 @@ At the moment only the Meaning Elements Tables are included, it will probably gr
 
 ## Change log
 
-
+### v3.0
+- Removed number columns to have cleaner output.
+- Removed dice rollers in single files.
 ### v2.0
 - Added a note hosting all rollers for ease of use.
 ### v1.0

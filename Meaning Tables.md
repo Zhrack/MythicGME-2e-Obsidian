@@ -1,6 +1,6 @@
 # General
 ##### Actions `dice: [[Action Meaning Table 2e#^Mythic2Action1]]` & `dice: [[Action Meaning Table 2e#^Mythic2Action2]]`
-##### **Descriptions:** `dice: [[Descriptions Meaning Table 2e#^Mythic2Descriptions1]]` & `dice: [[Descriptions Meaning Table 2e#^Mythic2Descriptions1]]`
+##### **Descriptions:** `dice: [[Descriptions Meaning Table 2e#^Mythic2Descriptions1]]` & `dice: [[Descriptions Meaning Table 2e#^Mythic2Descriptions2]]`
 ##### Names: `dice: [[Names#^Mythic2Names]]` & `dice: [[Names#^Mythic2Names]]`
 
 # Narrative

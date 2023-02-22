@@ -5,6 +5,8 @@ At the moment only the Meaning Elements Tables are included, it will probably gr
 
 ## Change log
 
+### v4.0
+- merged PR for alternate table view of Meaning Tables.
 ### v3.1
 - Fixed Descriptions second roller rolling on first table instead of second.
 ### v3.0

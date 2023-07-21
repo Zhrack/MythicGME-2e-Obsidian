@@ -5,6 +5,8 @@ At the moment only the Meaning Elements Tables are included, it will probably gr
 
 ## Change log
 
+### v5.0
+- Added a shortcut file that implements Event Crafter from Word Mill Games using Inline Scripts.
 ### v4.0
 - merged PR for alternate table view of Meaning Tables.
 ### v3.1
@@ -21,8 +23,23 @@ At the moment only the Meaning Elements Tables are included, it will probably gr
 Just download this repository as a zip file and unzip it in your chosen folder.
 Create an Obsidian Vault from that folder and have fun!
 
+### Using the Meaning Tables
 To use the automatic table roller, the plugin [Dice Roller](https://github.com/valentine195/obsidian-dice-roller) is needed.
 Once installed and activated, just keep the Obsidian pane in Reading mode and click on the result text to reroll.
+
+### Using the Event Crafter shortcut
+To use the Event Crafter shortcut file:
+1. Install the plugin [Inline Scripts](https://github.com/jon-heard/obsidian-inline-scripts) and activate it.
+2. In it's settings, import the default library. The shortcut file state.sfile is needed to work and saving state of last session.
+3. Click on "Add shortcut-file", which will add a new empty slot at the end of the list.
+   ![image](https://github.com/Zhrack/MythicGME-2e-Obsidian/assets/5031873/034e8373-4a82-4eef-9466-58b32fadd7f8)
+
+4. Write "support/customScripts/eventcrafter.sfile" (or the path you chose starting from the root of the Vault) in it and toggle the shortcut active
+   ![image](https://github.com/Zhrack/MythicGME-2e-Obsidian/assets/5031873/79f871c8-bedf-4471-984c-a25bc452f30c)
+
+5. Now it should work. To test it, write ";;help eventcrafter::" (without the ""). As soon as you finish writing the last :, it should substitute the text with ![image](https://github.com/Zhrack/MythicGME-2e-Obsidian/assets/5031873/e4ab3a63-f71e-4e93-baae-3b391c547b55)
+
+For tutorials on how to use Inline Scripts, go to it's own page https://github.com/jon-heard/obsidian-inline-scripts!
 
 ## Credits
 

@@ -41,6 +41,10 @@ To use the Event Crafter shortcut file:
 
 For tutorials on how to use Inline Scripts, go to it's own page https://github.com/jon-heard/obsidian-inline-scripts!
 
+Here is a list of available commands. While typing each one, a description is also present.
+![image](https://github.com/Zhrack/MythicGME-2e-Obsidian/assets/5031873/5bb6b2be-b28a-4b49-9326-2b783b7c9186)
+
+
 ## Credits
 
 Mythic Game Master Emulator Second Edition, by Tana Pigeon, published by Word Mill Games, and licensed for our use under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license. Find out more at [www.wordmillgames.com](http://www.wordmillgames.com/).

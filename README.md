@@ -49,6 +49,6 @@ Here is a list of available commands. While typing each one, a description is al
 
 Mythic Game Master Emulator Second Edition, by Tana Pigeon, published by Word Mill Games, and licensed for our use under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.
 
-Shortcuts for Word Mill Games' Event Crafter is created by Tana Pigeon, published by Word Mill Games, and licensed for our use with permission from the author. 
+Shortcut eventcrafter.sfile for Word Mill Games' Event Crafter, which is created by Tana Pigeon, published by Word Mill Games, and licensed for our use with permission from the author. 
 
 Find out more at [www.wordmillgames.com](http://www.wordmillgames.com/).

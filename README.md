@@ -30,7 +30,7 @@ Once installed and activated, just keep the Obsidian pane in Reading mode and cl
 ### Using the Event Crafter shortcut
 To use the Event Crafter shortcut file:
 1. Install the plugin [Inline Scripts](https://github.com/jon-heard/obsidian-inline-scripts) and activate it.
-2. In it's settings, import the default library. The shortcut file state.sfile is needed to work and saving state of last session.
+2. In its settings, import the default library. The shortcut file state.sfile is needed to work and saving state of last session.
 3. Click on "Add shortcut-file", which will add a new empty slot at the end of the list.
    ![image](https://github.com/Zhrack/MythicGME-2e-Obsidian/assets/5031873/034e8373-4a82-4eef-9466-58b32fadd7f8)
 
